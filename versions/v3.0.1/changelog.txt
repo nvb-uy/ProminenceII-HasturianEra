@@ -1,0 +1,25 @@
+# Prominence II RPG v3.0.1
+Small update fixing various crashes and a few issues, but also reducing scaling to make it less punishing for early game and a bit more challenging against bosses / mini bosses.
+
+\* This also fixes the crash on macOS / ARM
+
+## Misc Changes & Fixes
+- Flywheel mode is now OFF by default
+- Fixed spell enchantments like Sunfire not being applicable in Spellblades or elemental armors
+- Fixed crash caused by outdated Iris
+- Fixed crash in Apple Sillicon or any ARM system
+- Fixed issues caused by Iris&Flywheel throwing openGL errors
+- Fixed crash when clicking on the puzzle icon
+- Fixed warning thrown by Euphoria Patches due to outdated shaderpack
+- Removed BetterEnd Lootr datapack (Caused loot issues)
+
+## Balance Changes
+- Reduced dynamic scaling health heavily, by around ~50%
+- Reduced dynamic scaling armor by ~60%
+- Reduced dynamic scaling of passive mobs from 20% to 15%
+- Increased boss dynamic scaling health slightly, by 1.5% per level (4.25% per level total)
+- Obliterated Voidforge (Was not meant to be enabled)
+
+## Mods
+- Removed Puzzles (Redundant, caused crashes)
+- Updated Iris, Sodium, Indium, Iris&Flywheel Compat, AAAParticles, EuphoriaPatches, Spellblades & ExtraRPGAttributes, AE2, AE2WT

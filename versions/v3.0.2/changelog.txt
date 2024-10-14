@@ -1,0 +1,46 @@
+# Prominence II RPG v3.0.2
+**Player Damage Increase**
+
+Due to scaling being harsh in the early game, this update focuses on buffing the player, specially in the early game, to ease out starting the modpack. Players who don't have good builds will also benefit from it, being now strong enough to go through the campaign (and even low tier mythic bosses).
+
+Specifically, the rebalancing introduced in v2.0.0 was reworked to no longer have stamina hits (First hits being stronger than the rest) and the global -50% damage reduction was removed, due to this, technically damage was also nerfed (scaling is a lot stronger) but due to the player having double damage now, the end game damage is really similar.
+
+For those who liked the difficulty from 3.0.1 and 3.0.0, I am planning on adding new features into difficulties later on, and adding the same scaling as an optional feature.
+
+## Balance Changes
+These damage changes affect mostly the early game, making it less punishing, while also affecting the endgame similarly to how it was previously (and has been since the v2.0.0 update released last year)
+
+### Player Damage
+- Increased player damage globally by +50% (Actually removed the previous -50% reduction)
+- Dynamic damage now starts applying after 10 damage is dealt.
+- Dynamic damage no longer gets ignored on the first hits, stamina hits were removed.
+- Dynamic damage now is slightly stronger on higher damage numbers.
+- PvP Damage is now 60%, from 75%.
+### Mob Scaling
+- Reduced added damage to scaled mobs by 50%
+### Talents
+- S'kellak's Call now scales at 100% Fire Power and 35% Physical Damage.
+### Other
+- Increased minimum of Ashes of the Stars to 15%, maximum to 35%
+- Increased minimum of Omniscience to 7%, maximum to 25%
+- Reduced damage of spellblade spin attacks by 40%
+- Obliterated newest spell oil from spellblade
+- Disabled Auto Swap from Spell Engine
+
+## Other Changes
+- Added new main menu song
+- Magus can no longer be summoned outside the glass ocean
+- Fixed extra hearts showing as empty in the hotbar
+- Fixed ruby shovels not being obliterated
+
+## Mods
+- Added Spell Engine x Open Parties and Claims
+- Added Colorful Hearts
+- Removed Overflowing Bars (Replaced)
+- Removed Vivecraft (Crashes and performance issues, add again at own risk)
+- Removed VR Combat (Not needed, add again if added back Vivecraft)
+- Updated ReBalance, Thermoo, MEGA Cells, Farmer's Delight, Spell Engine, Spell Power, Invocations, Archers, Jewelry, Paladins, Rogues, Wizards, Simply Skills, Satisfying Buttons.
+
+## Resourcepacks
+- Removed Ashen Mod Compat (Deprecated and replaced by addons)
+- Updated Ashen BetterEnd Compat
