@@ -1,0 +1,44 @@
+# Prominence II RPG: Hasturian Era
+**3.0.6 - Level Menu & Fixes**
+
+A small update featuring a few fixes and a new menu when hovering the player level icon in your inventory!
+
+## Important Changes
+- Added a submenu when hovering your level, which shows the progress until the next level along with some quick stats (Like HP, armor, damage and spell powers)
+- Performance Improvements
+- Fixed A'zhar dealing no damage
+- Quest Fixes
+- (Hopefully finally) fixed crash on Linux
+
+## Changes
+- FABRIC IS NOW 0.16.5
+- Added hover over level that displays level, progress until next level, and basic stats such as max health, armor, elemental powers, etc.
+- Added artifact upgrade quest to S'kellak's Forge
+- Switched Jade's theme to Dark to better fit the UI design
+- Changed wording of some Void's Invasion campaign quests for better readability
+- Added quest after Gu'mas fight to explain what's coming
+- Default flywheel mode is now instancing
+- Fixed A'zhar dealing no damage
+- Fixed ender pearl trim granting 100% dodge chance
+- Fixed Void Shot, Void Strike and Enigma Resonator still being enabled
+- Fixed maximum dynamo stacks
+- Fixed arcane and frost starting nodes giving +0.5 power instead of +1
+- Fixed some quests having wrong tasks
+- Fixed crash on linux caused by AAAParticles
+- Fixed huge lag spike when opening the questbook (Thanks txni!!)
+- Fixed creative flight not being completely disabled when in combat
+- Fixed cosmetics not being wearable
+- Fixed Colorful Hearts not being replaced with Overflowing Bars on the Modrinth version of the modpack
+- Removed blur from shaderpack screen
+
+## Balance Changes
+- Buffed stats on the nether and end mobs when playing on Hard difficulty (More damage and attack speed for all mobs)
+
+## Mods
+- Added Quests Freeze Fix
+- Added Ashen + Eating Animation Support
+- Added Overflowing Bars (Modrinth version only)
+- Added Custom Entity Attributes (CEA)
+- Removed Ashen + Appleskin Support (Unused)
+- Removed Colorful Hearts (Modrinth version only)
+- Updated AAAParticles, Prominent, Prominent Talents, Accessories, Trinkets Compat for Accessories
