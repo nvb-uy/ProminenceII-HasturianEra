@@ -3,24 +3,26 @@
   "hotfixesFormat": null,
   "versions": [
     {
-        "id": "v3.0.6",
-        "releasedAt": 1728270000000,
-        "promotions": {
-            "downloads": {
-                "modrinth": "https://modrinth.com/modpack/prominence-2-fabric/version/3.0.6",
-                "curseforge": "https://www.curseforge.com/minecraft/modpacks/prominence-2-rpg/files/5790311"
-            }
-        }
-    },
-    {
-      "id": "v3.0.5",
-      "releasedAt": 1727578800000,
+      "id": "v3.0.0",
+      "releasedAt": 1726110000000,
       "promotions": {
           "downloads": {
-              "modrinth": "https://modrinth.com/modpack/prominence-2-fabric/version/3.0.5",
+              "modrinth": "https://modrinth.com/modpack/prominence-2-fabric/version/3.0.0",
               "curseforge": "https://www.curseforge.com/minecraft/modpacks/prominence-2-rpg"
           }
-      }
+      },
+      "updateType": "major"
+    },
+    {
+      "id": "v3.0.1",
+      "releasedAt": 1726196400000,
+      "promotions": {
+          "downloads": {
+              "modrinth": "https://modrinth.com/modpack/prominence-2-fabric/version/3.0.1",
+              "curseforge": "https://www.curseforge.com/minecraft/modpacks/prominence-2-rpg"
+          }
+      },
+      "updateType": "minor"
     },
     {
       "id": "v3.0.2",
@@ -30,15 +32,27 @@
               "modrinth": "https://modrinth.com/modpack/prominence-2-fabric/version/3.0.2",
               "curseforge": "https://www.curseforge.com/minecraft/modpacks/prominence-2-rpg"
           }
-      }
+      },
+      "updateType": "minor"
     },
     {
-      "id": "v3.0.0",
-      "releasedAt": 1726110000000,
+      "id": "v3.0.5",
+      "releasedAt": 1727578800000,
       "promotions": {
           "downloads": {
-              "modrinth": "https://modrinth.com/modpack/prominence-2-fabric/version/3.0.0",
+              "modrinth": "https://modrinth.com/modpack/prominence-2-fabric/version/3.0.5h",
               "curseforge": "https://www.curseforge.com/minecraft/modpacks/prominence-2-rpg"
+          }
+      },
+      "updateType": "minor"
+    },
+    {
+      "id": "v3.0.6",
+      "releasedAt": 1728270000000,
+      "promotions": {
+          "downloads": {
+              "modrinth": "https://modrinth.com/modpack/prominence-2-fabric/version/3.0.6",
+              "curseforge": "https://www.curseforge.com/minecraft/modpacks/prominence-2-rpg/files/5790311"
           }
       },
       "updateType": "minor"
