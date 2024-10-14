@@ -1,5 +1,5 @@
 # Prominence II RPG: Hasturian Era
-**v3.0.6 - Level Menu & Fixes**
+**3.0.6 - Level Menu & Fixes**
 
 A small update featuring a few fixes and a new menu when hovering the player level icon in your inventory!
 

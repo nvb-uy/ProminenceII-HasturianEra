@@ -1,5 +1,5 @@
-# Prominence II RPG v3.0.2
-**Player Damage Increase**
+# Prominence II RPG: Hasturian Era
+**3.0.2 - Player Damage Increase**
 
 Due to scaling being harsh in the early game, this update focuses on buffing the player, specially in the early game, to ease out starting the modpack. Players who don't have good builds will also benefit from it, being now strong enough to go through the campaign (and even low tier mythic bosses).
 

@@ -1,4 +1,5 @@
-# Prominence II RPG v3.0.1
+# Prominence II RPG: Hasturian Era
+**3.0.1 - Fixes**
 Small update fixing various crashes and a few issues, but also reducing scaling to make it less punishing for early game and a bit more challenging against bosses / mini bosses.
 
 \* This also fixes the crash on macOS / ARM
