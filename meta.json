@@ -3,16 +3,6 @@
   "hotfixesFormat": null,
   "versions": [
     {
-      "id": "v3.0.7",
-      "releasedAt": 1728961200000,
-      "promotions": {
-          "downloads": {
-              "modrinth": "https://modrinth.com/modpack/prominence-2-fabric/version/3.0.7",
-              "curseforge": "https://www.curseforge.com/minecraft/modpacks/prominence-2-rpg/"
-          }
-      }
-    },
-    {
         "id": "v3.0.6",
         "releasedAt": 1728270000000,
         "promotions": {
@@ -50,7 +40,19 @@
               "modrinth": "https://modrinth.com/modpack/prominence-2-fabric/version/3.0.0",
               "curseforge": "https://www.curseforge.com/minecraft/modpacks/prominence-2-rpg"
           }
-      }
+      },
+      "updateType": "minor"
+    },
+    {
+      "id": "v3.0.7",
+      "releasedAt": 1728961200000,
+      "promotions": {
+          "downloads": {
+              "modrinth": "https://modrinth.com/modpack/prominence-2-fabric/version/3.0.7",
+              "curseforge": "https://www.curseforge.com/minecraft/modpacks/prominence-2-rpg/"
+          }
+      },
+      "updateType": "minor"
     }
   ]
 }
