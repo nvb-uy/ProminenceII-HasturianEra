@@ -1,0 +1,70 @@
+# Prominence II RPG: Hasturian Era
+**3.0.7 - Unholy Death Knights**
+
+This update introduces a new class with new weapons, armors and its own skill book; the Unholy Death Knight.
+Become a plaguebringer, use abilities that bring diseases to your victims and spread them to multiple targets.
+
+This update also introduces two new armor sets for Frost Death Knights, and two more for Unholy Death Knights!
+
+You might be confused about the balance changes, so please [check the newest blog post for more information](https://rpg.prominence.wiki/blog/3.0.7-changes), it's a bit complex.
+
+## Important Changes
+- **Unholy Death Knight**: A versatile melee DPS that can grip targets and infect them with diseases.
+- **New Fate Talent: Decaying Devotion**. A Death Knight focused talent that removes elemental powers but increases your Unholy and Blood powers, and grants a passive to increase damage while riding horses.
+- **Artifacts can now use Spell enchants**. Artifacts can now use again the spell enchants, making them way more powerful.
+- **Balance Changes**. General balance changes to try to get all late game builds to deal consistent ~300 DPS
+- **Resistance Changes**. The resistance effect now mitigates 5% of the damage dealt per level.
+- **Version Checker**. The version checker from Prominence I is now on Prominence II, notifying you when you're outdated so you can always have your modpack updated!
+
+## Artifact Changes
+- Fixed all artifacts (except Thunderwrath) not being able to use Spell enchants such as Spell Infinity or Spell Power.
+- Fixed artifact damage increase nodes not working properly on some artifacts.
+- Fixed A'zhar damage calculation spiking way too fast than it should.
+- Fixed Frostmourne's size in third person, it's now 20% bigger.
+- Frostmourne now gives +6 Unholy, Frost and Blood Power instead of +25%, it no longer gives soul power.
+- Fyr'alath now gives +4 Fire/Soul instead of +10%
+- Supernova now gives +6 Spell Power instead of +5
+- A'zhar now gives +7 Spell Power instead of +10%
+- Fury of a Thousand Fists now gives +7 Spell Power instead of +10%
+
+## Talent Tree Changes
+- Added "Decaying Devotion", a fate node for Death Knights. Its passive works on vanilla horses and the Nightmare mythic mount!
+- Added new icon background for all fate talents to better differentiate them
+- Changed Sin'dorei Heritage to reduce up to -50% armor instead of -80%
+
+## Boss Changes
+- Mythic bosses now will drop the Void Hourglass at the player that summoned them, instead of above
+- When a player dies against a mythic boss, their gravestone will contain the new Void Hourglass
+- Gu'mas is now invulnerable in phase change, this is done to prevent permanent stuns.
+- Increased base hp of Gu'mas to 1100 from 900
+- Reduced slightly the damage dealy by Gu'mas.
+
+## Balance Changes
+- Increased maximum efficiency of armor from 30% to 40%, and its max limit to 100.
+- Netherite Staves now give +6 Spell Power instead of +5
+- Max Tier Staves now give +8 Spell Power instead of +6
+- Reduced Omni and Ashes maximums heavily
+- Magus Armor no longer gives flat spell power, it instead gives +12.5% of all elements as it's a medium defense multielement armor.
+- A lot of changes in magic-focused armor sets, please see the blog post linked above for full changes!
+- Disabled damage reduction from Silver trim to make Diamond trim useful again
+- Disabled Amethyst trim
+- Disabled Broken Watch
+
+## Other Changes
+- Added version checking and in-game changelog display
+- Fixed not being able to go back to the anvil tab once you went to the reforging tab.,
+- Fixed hourglass spawning too high when killing or dying to a mythic boss. It will now spawn on the player that summoned it / died to it; if the summoner isn't online when the mythic boss dies, it'll spawn on the location of the mythic boss.
+- Fixed crash caused by Void Hourglass with too high of a level.
+- Fixed stat menu showing unholy icon as passive's icon.
+- Fixed Molten Core description saying that it's unlocked at Chapter II instead of Chapter I.
+- Fixed feral claws being equippable even if obliterated
+- Removed player report button from pause screen while in multiplayer.
+
+## Mods
+- Added Sodium/Embeddium Dynamic Lights
+- Added Sodium/Embeddium Extras
+- Added Toni's Immersive Lanterns
+- Added No Report Button
+- Added Connectible Chains
+- Added Resistance Balancer
+- Updated Death Knights, Prominent, Prominent Talents, Create: Copycats+, Tierify, Mandala's GUI, Accessories, Archon, Building Wands, Spellblade, SBProm, Spell Engine, Eldritch End, AAAParticles
