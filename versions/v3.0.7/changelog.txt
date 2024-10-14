@@ -70,7 +70,6 @@ You might be confused about the balance changes, so please [check the newest blo
 ## Mods
 - Added Modpack Update Checker
 - Added Sodium/Embeddium Dynamic Lights
-- Added Sodium/Embeddium Extras
 - Added Toni's Immersive Lanterns
 - Added No Report Button
 - Added Connectible Chains
