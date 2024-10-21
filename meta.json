@@ -10,8 +10,7 @@
               "modrinth": "https://modrinth.com/modpack/prominence-2-fabric/version/3.0.0",
               "curseforge": "https://www.curseforge.com/minecraft/modpacks/prominence-2-rpg"
           }
-      },
-      "updateType": "major"
+      }
     },
     {
       "id": "v3.0.1",
