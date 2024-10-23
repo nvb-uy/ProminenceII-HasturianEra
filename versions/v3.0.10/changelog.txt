@@ -1,0 +1,56 @@
+# Prominence II RPG: Hasturian Era
+**3.0.10 - Health Overhaul & Blood Death Knights**
+
+This update brings two new big things: A new tank class; the Blood Death Knight. And most importantly, a health overhaul.
+
+From now on, players will start gaining max HP based when they level up. Enemy damage was adjusted and the max hp given by gear and talents was too; the S'kellak's Blessing fate now grants +100 Max HP.
+
+For more info about this, read the [blog post that explains these changes](https://rpg.prominence.wiki/blog/3.0.10-changes)
+
+## Important Changes
+- **Health Overhaul**: Players will now gain health each level. Talents and armor sets have been adjusted to better suit tank builds, and damage was re-adjusted.
+- **Blood Death Knights**: The new tank class of Blood Death Knights is out! A self sustain focused tank class. Jewelry & Runeaxes aren't implemented yet!
+- **New Frostmourne Model**: A new model for the Frostmourne artifact has been forged.
+- **Healing!**. Due to the new health adjustments, healers are in a better state and even needed for multiplayer. For singleplayer, there were consumable buffs, like the Health Flask now healing 10% max health + 35% of maximum health over 10s!
+- **Healthbars**. The hearts in the HUD have been completely replaced with a healthbar, so it's easier to see your HP in later stages 
+- **PvP**: Thanks to the new HP changes, PvP is in a better state in the late/end game. It still is not fully balanced, but a PvP focused update will come in the future.
+
+## Talent Changes
+- S'kellak's Armor Blessing is now "S'kellak's Blessing", and it now also gives +100 Max HP
+
+## Item Changes
+- Sapphire Rings and Necklaces now give +10 Max Health instead of +2
+- Netherite Sapphire Rings and Necklaces now give +20 Max Health instead of +4
+- Sentinel's Ammulet now gives +60 Max Health instead of +6
+- Juggernaut's Band now gives +40 Max Health instead of +6
+- Health Flask now heals 10% max health and grants Regeneration IV for 5 seconds
+- Health Flask's use time reduced by 1 second, but after drinking it goes on cooldown for 2 seconds.
+
+## Boss Changes
+- Highly buffed health and damage of Conjuntivius to make it fit more within the position it is in the campaign.
+- Highly buffed health and damage of Blackstone Golem to make it fit more within the position it is in the campaign.
+
+## Balance Changes
+- Increased damage dealt by whirlwinds from spellblades by +20%.
+- Spin attacks from Spellblades no longer grant Strength/Haste stacks, this is done to make consumables a better choice.
+
+## Other Changes
+- Added icons to some of the main attributes
+- Attack Speed is now called "Haste", as it scales other things than just attacks.
+- Attack Damage is now called "Physical Damage", as it scales other things than just attacks.
+- Corruption is no longer infusable in weapons; now it's only infusable in armor pieces.
+- Disabled Forlorn Invaders from spawning (Lag issues)
+- Fixed Great Runeblades not being craftable
+- Fixed kick caused by Null
+- Fixed Null being able to get infinite hp
+- Fixed level up sound not playing
+
+## Mods
+- Added AsteorBar
+- Removed Overflowing Bars
+- Updated Prominent, Prominent Talents, Archon, Death Knights, You Shall Not Spawn
+
+## Credits
+- Eftann for making the new Frostmourne model and texture.
+- Mim1q for making the spell icons for Blood Death Knight.
+- Patchouli for making the textures and model for Crimson Guard armor. 
