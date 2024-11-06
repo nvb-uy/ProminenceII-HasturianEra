@@ -1,0 +1,29 @@
+## Prominence II RPG: Hasturian Era
+**3.0.11 - Ekavar, The Great Cinderstone Staff**
+
+![Update Banner](https://github.com/nvb-uy/cdn/blob/main/update-images/prominence-2-rpg/3.0.11.png?raw=true)
+
+## Important Changes
+- Added the new artifact for mages; **Ekavar**, that can evolve into 5 other artifacts. 
+  - **Ekavar, Great Cinderstone Staff.** Base of the artifact that grants all spell powers.
+  - **Al Na'ir, The Bright Star.** Arcane Upgrade of Ekavar, grants +30% Arcane Power.
+  - **Adassil, The Scorched Tree.** Fire Upgrade of Ekavar, grants +30% Fire Power.
+  - **Khaz'el, The Frozen Destiny.** Frost Upgrade of Ekavar, grants +30% Frost Power.
+  - **Ad'anel, Secret of Ain.** Holy Upgrade of Ekavar, grants +30% Holy Power.
+  - **Singularity, A Star's Rebirth.** Astral Upgrade of Ekavar, grants +20% Astral Power.
+- **Fixed A'zhar oneshotting at higher levels.**
+- **AE2 Expansion:** ME Requester & ExtendedAE.
+
+## Artifact Changes
+- Added Ekavar, The Great Cinderstone Staff.
+- Fixed A'zhar oneshotting you at higher levels
+
+## Other Changes
+- Added recipe to convert Greater Mythical Essences into Lesser Mythical Essences
+- Added new texture for hotbar underlay
+- Fixed trading post block not working
+
+## Mods
+- Added ME Requester
+- Added ExtendedAE
+- Updated Prominent, Trading Post, Leawind's Third Person, Zenith, Zenith Attributes, FakerLib
