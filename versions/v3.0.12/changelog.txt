@@ -1,0 +1,22 @@
+## Prominence II RPG: Hasturian Era
+**3.0.12 - Blood Death Knight Gear Expansion**
+
+![Update Banner](https://github.com/nvb-uy/cdn/blob/main/update-images/prominence-2-rpg/3.0.12.png?raw=true)
+
+## Important Changes
+- Added new weapons for Blood Death Knights: Great Runaxes 
+- Added two new trinkets for Blood Death Knights:
+  - Necklace of the Blood Queen: +8% Blood Power and +6% Max Health
+  - Necklace of the Ring of Bloodthirst: +8% Blood Power and +6% Max Health
+- New textures for the Crimson Guard armor 
+
+## Changes
+- Added warning when you have low ram allocated
+- Added Great Runeaxes, meant for blood death knights. They're slow and have Death Strike as an integrated spell.
+- Added Blood Death Knight jewlery; necklace and rings. Found in treasure chests of Bastions.
+- Added new model and textures for the Crimson Guard armor set.
+- Fixed plenty of issues caused by Create Estrogen
+
+## Mods
+- Added Memory Settings
+- Updated Death Knights, Create: Estrogen, Resourceful Lib, Resourceful Config
