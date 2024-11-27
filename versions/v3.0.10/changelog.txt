@@ -1,6 +1,8 @@
 # Prominence II RPG: Hasturian Era
 **3.0.10 - Health Overhaul & Blood Death Knights**
 
+![Update Banner](https://github.com/nvb-uy/cdn/blob/main/update-images/prominence-2-rpg/3.0.10.png?raw=true)
+
 This update brings two new big things: A new tank class; the Blood Death Knight. And most importantly, a health overhaul.
 
 From now on, players will start gaining max HP based when they level up. Enemy damage was adjusted and the max hp given by gear and talents was too; the S'kellak's Blessing fate now grants +100 Max HP.

@@ -1,0 +1,37 @@
+## Prominence II RPG: Hasturian Era
+**3.0.20 - Leveling Progression Overhaul**
+
+![Update Banner](https://github.com/nvb-uy/cdn/blob/main/update-images/prominence-2-rpg/3.0.20.png?raw=true)
+
+This update changes the progression of player leveling to make it easier for players to progress through the campaign. As players who didn't focus on doing the campaign right away would reach high levels and then face the early bosses with high scaling, making them way more difficult than they should be.
+
+*If you were level 11 or higher and didn't defeat the Night Lich, then your level will be set back to 10! Same applies to players who didn't finish Void's Invasion and were a higher level than 50.*
+
+## Important Changes
+- **Stage Leveling**. Leveling is now locked behind the content being made. By default players now can level up to level 10, and will unlock 11-50 leveling after defeating the first boss of Void's Invasion. 51-65 leveling is now unlocked once starting Hasturian Era.
+- **Dual choices for first boss**. Now the Night Lich is one of the options as the first boss of Void's Invasion, with the other now being the Decaying King. This means that to progress through campaign you can either kill the Night Lich in the Overworld, or Decaying King in the Nether. The Decaying King was buffed to be immune to ranged options, making it a boss option focused towards melee, making it the opposite of Night Lich.
+- **Level Indicators**. Bosses will now have level indicators, displaying what level they are.
+
+## Talent Changes
+- Fixed Decaying Devotion's damage increase not working properly
+
+## Artifact Changes
+- Thunderwrath now requires an Essence of Glory instead of a Demonic Essence to craft
+- Fixed Ekavar counting as a melee weapon
+- Fixed damage increase per stack from A'zhar
+- Fixed Fyr'alath not being able to use spell enchants
+- Fixed Ekavar counting as a sword instead of staff, making reforge stats incorrect
+
+## Other Changes
+- Added Hardening Catalyst rewards for both the Night Lich and Decaying King.
+- Added the Decaying King as a level 10 boss.
+- Added level plaques to all bosses within the Void's Invasion and Hasturian Era questlines.
+- Night Lich is now optional, you can either fight the Night Lich or Decaying King for the first boss progression.
+- Level 50 Demonic Essence boss is now Baphomet.
+- Fixed oneshot prevention only working in peaceful instead of easy
+- Fixed enchanting issues with Death Knights gear
+- Fixed Crimson Guard armor having wrong pivot points
+- Slight modifications to questlines
+
+## Mods
+- Updated Prominent, Prominent Talents, Complementary Shaders, Euphoria Patches, Death Knights
