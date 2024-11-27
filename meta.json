@@ -99,6 +99,17 @@
           }
       },
       "updateType": "minor"
+    },
+    {
+      "id": "v3.0.20",
+      "releasedAt": 1732722198768,
+      "promotions": {
+          "downloads": {
+              "modrinth": "https://modrinth.com/modpack/prominence-2-fabric/version/3.0.20",
+              "curseforge": "https://www.curseforge.com/minecraft/modpacks/prominence-2-rpg/files/5940455"
+          }
+      },
+      "updateType": "minor"
     }
   ]
 }
