@@ -1,0 +1,28 @@
+## Prominence II RPG: Hasturian Era
+**3.0.21 - Fixes & Boss Combat Changes**
+
+![Update Banner](https://github.com/nvb-uy/cdn/blob/main/update-images/prominence-2-rpg/3.0.21.png?raw=true)
+
+This update fixes issues with damage modifiers from the talent tree (such as Decaying Devotion or Artifact Damage nodes) not working properly (or not at all), so it is suggested to update ASAP, as it'll heavily improve the damage of your builds. It also adds the disarm effect when fighting all bosses instead of just Conjunctivius. Decaying Devotion's damage was also increased slightly temporarily to counteract Decaying not working at the moment.
+
+* The Decaying enchant is still not working, but this will be fixed soon as it's a spell engine issue! UH or Blood DK builds are still viable, and even more so with decaying devotion's temporary buff! 
+
+## Important Changes
+- **Boss Disarm**. You can no longer place blocks while in combat with bosses. This is the same thing that happened already with Conjunctivius, but now happening with every boss.
+- **Artifact Damage Fixes.** This update fixes the artifact damage nodes not working properly
+- **Decaying Devotion Fix.** It also fixes decaying devotion not working when riding normal horses!
+- **Damage buff for Decaying Devotion.** Decaying Devotion now grants +70% damage instead of +50%, this was done because of Decaying not working.
+- **Few crash fixes!**
+
+## Changes
+- Added disarm effect when fighting a boss or mob with 300+ health
+- Fixed A'zhar damage not increasing per broken soul stack
+- Fixed decaying devotion not multiplying damage when riding normal horses
+- Fixed artifact damage nodes on all artifacts not working
+- Fixed crash when using an ability near a party member
+- Fixed head clipping when switching perspectives
+- Fixed crash when going third person and casting a spell
+
+## Mods
+- Added Combat Effects
+- Updated Prominent, Leawind's Third Person
