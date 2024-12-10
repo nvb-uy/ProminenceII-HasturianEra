@@ -3,15 +3,14 @@
 
 ![Update Banner](https://github.com/nvb-uy/cdn/blob/main/update-images/prominence-2-rpg/3.0.21.png?raw=true)
 
-This update fixes issues with damage modifiers from the talent tree (such as Decaying Devotion or Artifact Damage nodes) not working properly (or not at all), so it is suggested to update ASAP, as it'll heavily improve the damage of your builds. It also adds the disarm effect when fighting all bosses instead of just Conjunctivius. Decaying Devotion's damage was also increased slightly temporarily to counteract Decaying not working at the moment.
+This update fixes issues with damage modifiers from the talent tree (such as Decaying Devotion or Artifact Damage nodes) not working properly (or not at all), so it is suggested to update ASAP, as it'll heavily improve the damage of your builds. It also adds the disarm effect when fighting all bosses instead of just Conjunctivius.
 
-* The Decaying enchant is still not working, but this will be fixed soon as it's a spell engine issue! UH or Blood DK builds are still viable, and even more so with decaying devotion's temporary buff! 
+* The Decaying enchant is still not working, but this will be fixed soon as it's a spell engine issue! UH or Blood DK builds are still viable nonetheless, and even more so with decaying devotion! 
 
 ## Important Changes
 - **Boss Disarm**. You can no longer place blocks while in combat with bosses. This is the same thing that happened already with Conjunctivius, but now happening with every boss.
 - **Artifact Damage Fixes.** This update fixes the artifact damage nodes not working properly
 - **Decaying Devotion Fix.** It also fixes decaying devotion not working when riding normal horses!
-- **Damage buff for Decaying Devotion.** Decaying Devotion now grants +70% damage instead of +50%, this was done because of Decaying not working.
 - **Few crash fixes!**
 
 ## Changes
