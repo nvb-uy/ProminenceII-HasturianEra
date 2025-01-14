@@ -1,0 +1,52 @@
+## Prominence II RPG: Hasturian Era
+**3.0.30 - Tutorial Quests & Questline Overhauls**
+
+This update introduces a lot of questline changes, new tutorial questlines explaining basic information (Including building yourself and how stats work), along some special things like Eternal Challenges and a slight Inventory UI Overhaul.
+
+Initially was going to be v3.0.50, also adding the two remaining artifacts Orion and Vaazkar. But due to time issues I've split it into two.
+
+## Hotfix Changes
+- Fixed FTB Quests button not working when cheats are off 
+- Fixed crash in serverpack
+- Fixed new textures not being present in the modrinth version
+
+## Important Changes
+- **Quest Overhaul.** Overhauled questlines, over a hundred new quests, and more.
+- **Tutorials.** Among the new additions, tutorial questlines were added that include important info, such as how to build yourself, what stats are and how they work, etc.
+- **Cosmetic Aritfacts.** Cosmetic versions of artifacts are now obtainable through Eternal Challenges (see below), used for Transmogrification.
+- **Eternal Challenges.** New hard and hidden quests which serve as easter eggs, completing some will unlock a hint towards the next. These will get expanded upon with future updates, unlocking even whole secret questlines.
+- **Inventory GUI Overhaul.** A clean new look for the inventory! Featuring less clutter, and a sidebar with useful buttons.
+- **Tips.** Added tips and lore fun facts in the loading screen and esc menu!
+
+## Quest Changes
+- Added a new Combat & Gear questline that explains what stats are, how they work and how to gear yourself depending on your build.
+- Added level limits quest to the introduction tutorial
+- Added a wiki tip quest to the introduction tutorial
+- Removed invalid items from Spellcasting quests
+
+## Item Changes
+- Lowered stats of high damage crossbows
+- Veiled Crossbow now has a 2 sec pull time
+
+## UI Changes
+- Redesigned inventory
+- Added button tabs for statistic, trinkets and quest screens
+- Fixed some pixels of the wrong color present in the inventory
+- EMI items are now hidden until you search anything
+
+## Recipe Changes
+- Dark Armor is now an upgrade of Berserker Armor, for Warrior tier consistency.
+- Souldancer Armor is now an upgrade of Assassin Armor, for Rogue tier consistency.
+
+## Other Changes
+- Redesigned icon for Holy power
+- Added icon for Soul and Lightning powers
+- Fixed soulbound oneshotting
+- Removed FTB Teams icon due to issues caused by it, please use Open Parties instead. You can still access FTB Teams through commands but it's not recommended!
+
+## Mods
+- Added Paxi
+- Added Distraction Free Recipes
+- Added Off Hand Tick Fix
+- Removed Openloader (Issues loading datapacks, replaced by Paxi)
+- Updated Prominent, FancyMenu, Drippy Loading Screen
