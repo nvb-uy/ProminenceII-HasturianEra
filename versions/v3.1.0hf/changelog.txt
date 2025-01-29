@@ -1,0 +1,90 @@
+## Prominence II RPG: Hasturian Era
+**3.1.0hf - The Great Artifact & Enchanting Update**
+
+![Update Banner](https://github.com/nvb-uy/cdn/blob/main/update-images/prominence-2-rpg/3.1.0.png?raw=true)
+
+This update is the biggest update since v3.0, featuring two new artifacts: Orion (for Archers) and Vaazkar (for Tanks). It also introduces many fixes and new features, such as new questlines (Botania, Spell Tutorial), 3 New Archer Spellbooks, Tiered Spellbooks, Enchanting Limits, new Armor Sets, new Improved Shield Mechanics, leveled bosses now interacting with the player's level, and much more, I invite you to read the whole changelog! 
+
+Initially this version was going to be 3.0.50, but due to the high amount of impactful changes it has been renamed to v3.1.0.
+You can expect the Cinderstone Depths Update to release on v3.2 instead!
+
+**TOMS STORAGE HAS BEEN REMOVED.** You will NOT lose your items, but the existing storage network blocks will disappear. Please follow the AE2 questline to make a storage network.
+
+# Important Changes
+- **Orion, Hunter of the Stars.** The new, long awaited artifact for Rangers, featuring three unique paths with different gameplay styles.
+- **Vaazkar, Protector of the Molten City.** A new shield artifact for tanks, focused towards crowd control and team utility.
+- **3 New Archer Spellbooks:** Mintaka's Fright, Alnilam's Sight, Alnitak's Might. They are also the first three Tier III spellbooks, which have a recipe instead of being obtainable in the spell binding table.
+- **Enchantment Limits.** Items now can only have up to 6 enchantments. With the exception of unique-tier items having a limit of 8, and artifacts having a limit of 10. In the future you will be able to increase this limit with an item!
+- **Tiered Spellbooks.** With the introduction of the new archer spellbooks, various more advanced spellbooks have been promoted to Tiered spellbooks. These books need to be crafted as they cannot be obtained through the Spell Binding Table. There's a questline explaining this!
+- **New Armor Sets.** Netherite upgrade sets for Wizards, Archers, Warriors, Rogues, Priests, Paladins and Death Knight armor sets!
+- **Decaying Death Knights & Blood Mini-Rework.** Decaying enchantment now works as intended, and Blood Death Knights had a mini-rework with Blood Plague now healing the player based on their blood power.
+- **Leveled Campaign Bosses.** Campaign bosses' level requirement now interacts with your actual level; if you're lower level you will deal less damage depending on how much the level difference is. Some bosses, like The Faceless, have a strict requirement and will require you to be their level to deal any significant damage. This requirement is marked in each of their quests at the top.
+
+# Hotfix Changes
+- Fixed a crash with Orion in servers
+- Fixed Tome of Eternal Winter being uncraftable
+- Fixed certain enchants not being applied on base death knight weapons and tier 3 gear 
+- Temporarily removed Shield Overhaul and Zigy's Player Animator API due to issues in proxies
+
+# Artifact Changes
+- Added Orion, Hunter of the Stars
+- Added Vaazkar, Protector of the Molten City
+- Added an Upgrade Tree for the hidden Granny's Pan Artifact
+
+## Boss Changes
+- Campaign Bosses are now leveled: When there's a recommended level, players will be able to fight it at lower levels but will deal less damage, but with bosses that require a specific level, they won't deal enough damage unless they're the same level as the boss.
+- Reduced Decaying King's health from 600 to 400, and its damage by -60%
+
+## Quest Changes
+- Added "Unlocking Abilities" tutorial chapter, explaining how to obtain all spellbooks
+- Added Botania questline
+- Overhauled The End questline, explaining how to get each eye (Held on this for way too long)
+- Replaced Ivory Arrow rewards with 
+- Fixed Tier IV spellblade having frostmourne as requirement
+- Fixed many rewards from the Gear tutorial questline
+- Fixed default position of the MI
+
+## Spellbook Changes
+- Runic Invocations is now named Astral Invocations
+- Astral Invocations now has 39 total spells from 19. Yup.
+- See "Recipe Changes" to see tier changes within existing spellbooks.
+- Added new texture for all three techniques spellbooks
+- Added new texture for the Astral Invocations spellbook
+
+## Talent Changes
+- Increased Unholy and Blood powers of Decaying Devotion from 5 to 10
+
+## Recipe Changes
+- Dark Armor now requires Netherite Berseker Armor instead of Berserker Armor
+- Souldancer now requires Netherite Assassin Armor instead of Assassin Armor
+- Death Knights spellbooks are now Tier II and requires a basic crafting recipe using their respective runes and a warrior book.
+- Paladin Libram is now Tier II and requires a basic crafting recipe using warrior and priest books.
+- Techniques books are now Tier II and requires a basic crafting recipe
+- Magister Books (Echoes, Phoenix, Deathchill) are now Tier III and require a crafting recipe that consumes a Cinderstone Trophy.
+- Astral Invocations is now Tier III and requires a crafting recipes that consumes a Cinderstone Trophy.
+- Fixed Sapphire Armor being uncraftable
+
+## Item Changes
+- Reduced efficiency of building wands, maximum range (netherite) is now 64 instead of 256
+- Removed Ivory Arrow (Not needed anymore, use tipped arrows wisely instead!)
+- Removed Thesis Books
+- Removed Tabula Rasa
+
+## Other Changes
+- Fabric Loader is now 0.16.10
+- Reduced Trick's damage globally by 1.13%
+- Building Wands no longer drop blocks when breaking
+- Fixed dupe glitch with Traveler's Backpack
+- Fixed infusions' attributes only applying once, making things like etyr only give +10 resistance with all 4 pieces instead of +40.
+- Fixed corruption infusions being infinitely stackable.
+
+## Mods
+- Added Crash Assistant
+- Added Eternal Attributes
+- Added Sortilege
+- Added Zigy's Player Animator API
+- Added More RPG Library
+- Added Archers Expansion
+- Added Chunk Save Fix
+- Removed Tom's Simple Storage (Caused Important Bugs & Performance Issues)
+- Updated Prominent, Spell Engine, Archers, Paladins & Priests, Rogues & Warriors, Wizards, Death Knights, Prominent Talents, Traveler's Backpack, Shield Overhaul, Mine Cells, You're in Grave Danger, Marium's Soulslike Weaponry, GeckoLib, Mod Menu
