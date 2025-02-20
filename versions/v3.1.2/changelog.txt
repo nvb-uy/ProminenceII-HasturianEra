@@ -1,0 +1,16 @@
+# Prominence II RPG: Hasturian Era
+**v3.1.2 - Compatibility & Fixes**
+
+This small update introduces various fixes, including the Simply Swords party issues, and many texture compatibility additions.
+
+## Changes
+- Added compatibility with Prominence's main resourcepack Ashen and other modded items & blocks
+- Added fresh animation compat for Marium's mobs
+- Fixed player tick issues when using simply swords effects while on parties
+- Fixed netherite tier death knight armors only having 6 enchant slots instead of 8
+- Fixed a few quests in the Combat & Gear tutorial not being completable
+
+## Mods
+- Added Fasten
+- Added Ashen + Prominence OST Support
+- Updated Open Parties and Claims PvP, The Bumblezone, Beachparty, HerbalBrews, Vinery, Brewery, Let's Do API
