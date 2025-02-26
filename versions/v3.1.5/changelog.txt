@@ -1,0 +1,48 @@
+# Prominence II RPG: Hasturian Era
+**v3.1.5 - The Transmog Appearances Update**
+
+## Important Changes
+- **Transmogs Appearances.** Yes, the XMOG Grind has come to Prominence. With **40** new weapon transmog appearances dropped by mythic bosses or rewarded from eternal challenges.
+- **Better UI Support**. More UIs are supported with the main resourcepack thanks to @pyrael.
+
+## Talent Changes
+- High Priest now gives +10 Holy Power instead of +100%
+- Fixed high priest losing 60% of all damage sources instead of just physical
+- Fixed warrior's devotion not removing phyis to spell power attributes
+- Changed warrior's devotion tooltip to better state that it only removes elemental spell powers
+
+## Quest Changes
+- The Faceless quest now rewards a Void Touched transmog of the player's choosing
+- Mythic Blacksmith eternal challenge now also rewards the Molten Sword transmog
+- Sideralis Fan eternal challenge now also rewards the Jade Halberd transmog
+- Possibly fixed issue where certain quests stay on a gray checkmark, please report if this happens and you're NOT using FTB Teams!
+- Fixed quest after gu'mas saying 3.1 is the vaaz update
+
+## Artifact Changes
+- Fixed Orion not being two handed
+- Fixed Orion not being able to be smelted down to a molten core
+- Reduced Alnilam's Pledge draw speed from 15% to 10%
+- Reduced Strenght of the Orion Nebula's arrow velocity from 10% to 5%
+
+## Other Changes
+- Added more support for some modded UIs, thanks to @pyrael for contributing this!
+- New Supported UIs:
+  - Accessories
+  - Alloy Forgery
+  - Bartering Station
+  - Better End
+  - Better Archeology
+- Fixed staves and wands having invalid rarity tiers that shouldn't exist, which were added by another mod
+- Fixed aqua shield giving permanent invincibility
+- Fixed crash when using the Dragon Backpack
+- Fixed barrels not dropping and taking an eternity to mine (Thanks to @koshell on github for the datapack)
+- Fixed issues link in the esc menu linking to the old tracker instead of the hasturian era one
+- Disabled brew flasks
+- Disabled Botania's Crystal Bow and Livingwood Bow due to no support with ranged api
+
+## Mods
+- Added Redirected
+- Added Despawn Tweaks
+- Removed Krypton
+- Removed Redirector
+- Updated Prominent, Prominent UI, Archers Expansion, More RPG Library, Archon, Traveler's Backpack, Quests Kill Task Tweaks
