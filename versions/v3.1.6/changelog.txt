@@ -1,0 +1,25 @@
+# Prominence II RPG: Hasturian Era
+**v3.1.6 - The Botanical Tech Update**
+
+This update introduces the Applied Botanics, to interact between AE2 and Botania, having new utilities that help reducing server lag. It also increases animal spawn rate by a lot, to make the world a bit more alive with cute animals!
+
+## Important Changes
+- **Applied Botanics.** Adding P2P Tunnels for mana, a Fluix Mana Pool and Mana Storage cells. 
+- **Tech Reborn Update.** Tech Reborn was updated with many new features such as the fisher having outputs, new pump, and a lot of fixes.
+- **More Animals!** Some animal spawn rate was increased heavily to add more ambience to the world.
+
+## Entity Changes
+- Slightly increased spawn weight of bears from 8 to 10
+- Reduced spawn weight of fireflies from 500 to 400
+- Doubled spawn weight of all animals except fireflies and bears
+- Heavily reduced spawn rates of Kobolds and Drakes 
+
+## Quest Changes
+- Fixed typo in "How do I know what gear to get?" quest
+
+## Other Changes
+- Fixed bug where you could have your world inaccessible after drinking Mojang Noir
+
+## Mods
+- Added Applied Botanics
+- Updated Tech Reborn, Botania, AE2, Vinery
