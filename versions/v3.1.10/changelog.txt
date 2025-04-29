@@ -1,0 +1,30 @@
+# Prominence II RPG: Hasturian Era
+**v3.1.10 - "Not The Last" Artifact Update**
+
+## Important Changes
+- **New Artifact: Gh'aj, The Living Blade.** A dagger artifact meant for fast attacking rogue builds. Don't listen to its whispers.
+- **New Artifact: Apophis, The Divine Hand.** A dual-wielded hammer artifact made for Paladins or Priests that aren't scared of going melee.
+- **Translatable Artifacts.** The abilities, descriptions and other misc additions that were previously hardcoded are now translatable using resource packs!
+
+## Next Update Spoilers
+||The Eye boss is getting a complete remake, replacing it with a fully custom boss. I am aware of the issues that the current Eye boss has, so my solution will be to completely replace it with a new boss with better mechanics. Stay tuned, as this will release before the Vaaz update. Soon:tm:||
+
+## Scaling Changes
+- Fixed scaling being based on the talent points spent instead of the player's level, fixing talent reset cheeses
+- Fixed corruption scaling with some abilities not being capped
+- Reduced strength of corruption on active talents by -20%
+
+## Artifact Changes
+- Artifact tooltips and abilities are now translatable (Check latest en_us.json for reference)
+- Fixed Fury of a Thousand Fists not proccing the soulfire damage when Enrage is active.
+
+## Quest Changes
+- Changed wording of The Eye's quest to better explain that end rods go on each corner instead of the edges of the obsidian.
+
+## Mods
+- Added Pirate's Doom
+- Updated Prominent, Simply Skills
+
+## Credits
+- Eftann for making the models of both Gh'aj and Apophis
+- World of Warcraft's "Fist of the Fallen Watcher" weapon for inspired Apophis' appearance
