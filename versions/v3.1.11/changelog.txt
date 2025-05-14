@@ -1,0 +1,25 @@
+# Prominence II RPG: Hasturian Era
+**v3.1.11 - The Boss Fight Update**
+
+This small update introduces new mechanics for bosses meant to make it harder to cheese with the classic death loop method, where players would continously die until they take out the boss.
+
+This change doesn't apply to easy difficulty, so if you want to play like this for some reason, just play on easy!
+
+Besides that, a few fixes & new features for the target dummy were added.
+
+## Important Changes
+- **Bosses now heal!** On hard difficulty, bosses will now heal 25% of their maximum health after killing a player. On normal difficulty, it'll heal 25% for each kill after the boss killed players at least 3 times.
+- **Boss Dummy.** You can now add a banner to the target dummy to put it in "boss mode", useful for testing builds!
+- **Dummy Healing.** When fighting a boss dummy, you will also see the healing per second your allies do.
+
+## Changes
+- Changed discord link from LunaPixel's to the official Prominence discord.
+- Bosses on normal difficulty will now heal 25% of max health after they directly killed 3 players.
+- Bosses on hard difficulty will now heal 25% of their max health every time they directly kill a player.
+- Bosses on hard difficulty will heal back up to 100% max health after 3 player deaths-
+- Fixed accessories issues on death
+
+## Mods
+- Added Boss Ultimatum
+- Added Dagger Fix
+- Updated MmmMmmMmmMmm (Target Dummy), Accessories
