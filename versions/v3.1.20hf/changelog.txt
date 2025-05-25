@@ -1,0 +1,43 @@
+# Prominence II RPG: Hasturian Era
+**v3.1.20hf - The Eldritch Eye & Co-Op Leveling**
+
+This update introduces a new boss replacement for the eye, called The Eldritch Eye. A fully custom boss that is both ranged and melee friendly, it's quite big tho.
+
+Besides that, changes to leveling where made to allow Co-Op leveling to become possible, and reducing the farming of XP via XP builds that previously existed to favor players that were losing XP by doing co-op.
+
+## Hotfix Changes
+- Added new default options.txt with various keybinds fixed
+- Added new default settings for Essential to work normally within Prominence
+- Fixed some main menu buttons disappearing with Essential installed
+- Removed Boss Ultimatum (Temporarily, as an issue with bosses health bugging is being investigated)
+
+If you were previously using Essential, reinstall the modpack and add the mod back in again, it will now work seamlessly without having to remove any other mods.
+
+## Boss Changes
+- Replaced "The Eye" boss with the new "The Eldritch Eye" boss.
+
+## Player Level Changes
+- Experience is now shared with all players that participate on the kill, instead of only the player that did the last blow, making Co-Op leveling possible.
+- Level XP gain now has 3x less weight on dropped experience but an increase from max health by 40%
+- Minimum leveling experience increased from 220 to 250
+- Reduced leveling experience increase factor by 0.005 (per level) 
+- Fixed funny glitch where breaking an armor stand would give you 4 leveling xp
+
+## Other Changes
+- Fixed resistance effect making armor reductions to not work
+- Reduced Ancient Knowledge strength by 50%
+- Disabled Charm of Ancient knowledge
+- Replaced all lunapixel related things with the new Cinderstone Studios equivalents
+- Removed Essential hard coded crash & warning screen
+
+## Mods
+- Added LambDynamicLights
+- Removed Luna
+- Removed Pack Analytics
+- Removed Sodium/Embeddium Dynamic Lights
+- Updated Prominent, Prominent Talents, Eldritch End, Puffish Skills, Puffish Attributes, FancyMenu, Drippy Loading Screen
+
+## Credits
+- Eftann for making the awesome and giant model of The Eldritch Eye
+- Forg for coding boss logic for The Eldritch Eye.
+- Afterlyte for suggesting a clever way to fix the armor stand glitch using math 🤓
