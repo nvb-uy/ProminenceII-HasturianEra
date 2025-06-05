@@ -1,0 +1,71 @@
+# Prominence II RPG: Hasturian Era
+**v3.1.50 - An 8M Download Special**
+
+Thank you for 8 million downloads! This is by far the biggest update the modpack has had since v3.0, featuring thousands of changes, but most importantly thousands of bug fixes, crash fixes, and QoL changes. It also features a big improvement on both performance and a big reduction loading times, along with fixes to lag spikes.
+
+But not only that! Also see those new sexy health & stamina bars.
+
+**PLEASE MAKE A BACKUP BEFORE UPDATING, JUST IN CASE! OLD WORLDS ARE STILL COMPATIBLE BUT BETTER BE SAFE THAN SORRY.**
+
+Updates from now on will be smaller than usual, as I am focusing fully on v3.2's development. See you in Vaaz soon, Flameborn.
+
+## Important Changes
+- **Heavy performance improvements.** Performance can be seen improved heavily in clients, and possibly servers too (Not enough data yet)
+- **Big reduction in loading times.** Loading times have been reduced by ~40%, possibly having a higher impact on lower end PCs.
+- **Fixed lag spikes.** Various lag spikes such as when opening the questbook for the first time have been fixed.
+- **Thousands of misc fixes.** Yes, you've read that right, THOUSANDS of fixes across all of the modpack, from bugs to crashes, lots!
+- **Transmoggable Backpacks.** What lots of you were waiting for, hiding or transmogging those (sometimes ugly) backpacks!
+- **Extra mod compatibility.** Compatibility between the mods of the modpack has been improved heavily for a more seamless experience.
+- **New HUD Health & Stamina Bars.** Goodbye Asteorbar, these new health/stamina bars are pixel perfect, hand made and look absolutely sexy.
+
+## Performance Changes
+- Improved heavily load times
+- Fixed lag spikes upon opening the questbook for the first time
+
+## Crash Fixes
+- Fixed the estrogen cookie jar crash
+- Fixed prismarine armor crash
+- Fixed server issues with the polymorph potion
+
+## Bug Fixes
+- Fixed Battle Rouse and similar enchants not working properly
+- Fixed charm of ancient knowledge not being actually removed
+- Disabled Troubadour's Charisma as it allowed for an exploit to infinitely apply status effects
+- Fixed thousands of bugs from +200 mod updates
+
+## Item Changes
+- Backpacks can now be transmogged
+
+## Worldgen Changes
+- Added plenty of new structures to explore
+- Improved vanilla biomes' worldgen
+- Villages now contain up to 1 waystone, and also contain a new building centered towards spellcasting / runecrafting
+
+## Balance Changes
+- Armor now goes up to 50% DR
+- Protection now goes up to 25% DR at full Prot V
+- Emerald Backpack now gives +1 luck
+
+## Other Changes
+- Fabric loader is now 0.16.14
+- Fixed missing Modrinth mods screen being broken & updated the mod links
+- Updated textures for many mods
+
+## Mods
+- Added Balm
+- Added Cicada
+- Added FTB XMod Compat
+- Added Lithostitched
+- Added OctoLib
+- Added SmartBrainLib
+- Added Supermaritijn642 Config Lib
+- Added TCDCommons API
+- Added Dynamic Resource Bars
+- Added Fancy Hotbar
+- Removed AsteorBar (Replaced)
+- Removed Better Fps - Render Distance (Issues)
+- Removed Better chunk loading (Issues)
+- Updated 216 mods
+
+## Credits
+- AlmdudlerKing for spending hours testing out mod updates & writing 126 pages of changelogs, truly a King :saluting_face: 
