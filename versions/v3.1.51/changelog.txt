@@ -1,0 +1,32 @@
+# Prominence II RPG: Hasturian Era
+**v3.1.51 - The Oaths of Vengeance and Defiance**
+
+This update introduces fixes from the last update (which introduced a LOT of changes), but also introduces two new paladin spellbooks centered around tanking; the Oaths of Vengeance and Defiance.
+
+## Important Changes
+- **The Paladin Oaths.** Meet two new spellbooks for Paladins; the Oaths of Defiance and Vengance, meant for Paladin tank builds.
+- **Spellbook Upgrade Bug Fixed.** The bug where old spells would stay after upgrading to a Tier II or Tier III spell book has been fixed.
+- **Many Other Fixes,** including the crash related to Sapphire Armor which has been for a long time affecting the pack.
+
+## Changes
+- Mythic Upgrades now also spawns geodes to find the gems easier and even farm them.
+- Spellblades was updated, meaning Spell oils and Thesis books are now gone forever! Bye bye!
+- 2 new books that can be found under the Paladin quest with a short info about them.
+- Spellblades now have a unique spell to them instead of repeating spells like Flickering Flame.
+- Made Magebane and Magebreaker a bit better and not just worse alternatives to mageseeker.
+- Magister is now useful for Spellblade users and can get all the Spell enchants (e.g. Sunfire)
+- Fixed Extra RPG Attributes enchants such as Battle Rouse not being exclusive with protection.
+- The new Health & Stamina bars now show Bewitchment things properly (for vampires and such), also fixed display absorption near health.
+- Made Kobolds spawn 10 times less and they can no longer steal items.
+- Fixed log spam from Zenith (Thank you Bagel!)
+- Fixed spells from the base Tier I/II spellbook staying after upgrading to Tier II or III spellbooks.
+- Fixed log spam and possible issues with Entity Model Features [EMF] constantly checking for Bewitchment chests that dont exist.
+- Fixed Sapphire Armor crashing you when fighting certain entities like guardians.
+- Fixed armor formula being much lower than it should be.
+
+## Mods
+- Removed TCDCommons API
+- Updated Crash Assistant, Lootr, Dynamic RPG Resource Bars, GeckoLib, Mythic Upgrades, Spellblades and Such, Farmer's Delight Refabricated, LambDynamicLights, Sortilege, Zenith, AzureLib, Moonlight Lib, Modpack Update Checker, Loot Integrations
+
+## Credits
+- AlmdudlerKing once again for helping development on this update

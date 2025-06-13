@@ -1,5 +1,5 @@
 # Prominence II RPG: Hasturian Era
-**v3.1.50 - An 8M Download Special**
+**v3.1.50hf2 - An 8M Download Special**
 
 Thank you for 8 million downloads! This is by far the biggest update the modpack has had since v3.0, featuring thousands of changes, but most importantly thousands of bug fixes, crash fixes, and QoL changes. It also features a big improvement on both performance and a big reduction loading times, along with fixes to lag spikes.
 
@@ -66,6 +66,14 @@ Updates from now on will be smaller than usual, as I am focusing fully on v3.2's
 - Removed Better Fps - Render Distance (Issues)
 - Removed Better chunk loading (Issues)
 - Updated 216 mods
+
+## Hotfix 2 Changes
+- Added AppleSkin, farmer's delight and mount health compat for the new bars
+- Fixed few random crashes
+- Fixed that Prominent no longer had translations in the CF version
+- Removed Better Statistics Screen (Issues & crashes)
+- Removed Memory Leak Fix (Issues & crashes)
+- Updated Dynamic RPG Resource Bars, Prominent
 
 ## Credits
 - AlmdudlerKing for spending hours testing out mod updates & writing 126 pages of changelogs, truly a King :saluting_face: 
