@@ -1,0 +1,24 @@
+# Prominence II Hasturian Era v3.1.52
+**New Models & Textures**
+
+This update introduces mostly visual changes, namely a new model for the artifact A'zhar, and new models for unique tier weapons, along with hundreds of new textures supported by Ashen. But it also fixes bugs such as the enchant limit bug that the previous version introduced. 
+
+YOUR KEYBINDS WILL BE RESET IF UPDATING - DO NOT COPY OVER YOUR OLD OPTIONS.TXT, RE-DO YOUR KEYBINDS MANUALLY.
+
+## Important Changes
+- **A new look for A'zhar.** A new model for A'zhar has been added, updating its old look.
+- **New textures.** Over +100 new textures supported from Ashen, Prominence's main resourcepack.
+- **Supernova Buff.** The astral artifact Supernova can now cast spells from spellbooks along its built in spells.
+- **Enchant Limit Bug Fix.** A bug where enchants limits (sometimes only visually) would display lower than they should was fixed.
+- **New Models.** Not just A'zhar! Unique tier weapons and special Mine Cells items now also have unique models! 
+
+## Changes
+- Added new model for A'zhar.
+- Fixed Nikolite and other ores not showing in EMI.
+- Fixed dupe with backpacks.
+- Added over 100 new textures with Ashen support.
+
+## Mods
+- Updated Prominent, Bumblezone, YIGD, Crash Assitant, Ashen, More RPG Classes, Phillips Ruins, Reborn Core, Tech Reborn, AzureLib, BadOptimizations, CICADA, Entity Culling, Euphoria Patches, Fabric Language Kotlin, GeckoLib, Geophilic, Language Reload, Lithostitched, Modpack Update Checker, Moonlight Lib, Not Enough Animations, Packet Fixer, Ping Wheel, Traveler's Backpacks, Skin Layers 3D, SeasonHUD
+- Rolled back Sortilege to 1.6.4
+- Removed Fast IP Ping
