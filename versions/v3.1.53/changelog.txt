@@ -1,0 +1,31 @@
+# Prominence II: Hasturian Era v3.1.53
+**Stability Update & Spanish Translations**
+
+This update brings mostly stability changes and bug fixes, but also a new step forward into supporting Spanish translations for the modpack. There is also a full chinese translation in the works by another team, but this one will not be added officially into the pack until v3.2 drops, due to heavy changes required.
+
+While the modpack is not yet 100% translated in other languages, mod support will start to be covered in the next few updates, hopefully by v3.2 the modpack should be fully translated in Spanish and Chinese.
+
+If you wish to help translate the modpack into another language, please hit me up with a DM! 
+
+## Important Changes
+- **Fixed Industrial Revolutions items missing from EMI**, such as the Nikolite, mining rig, etc.
+- **New Spanish translations contributed by the community,** for Ad Astra (+ Addons), End Remastered, Archers Expansion, Animal Feeding Trough, Archon, Applied Botanics, AE2 Wireless Terminal, AdventureZ and Bartering Station.
+- **Mintaka and Alnilam now scale with Frost & Fire powers**, having better damage when paired with spell power talents or other bonuses.
+
+## Boss Changes
+- Conjunctivius now has the health and damage buffs that were previously not applied. 
+
+## Other Changes
+- Industrial Revolution items(most importantly Nikolite and the Mining rig) now display in EMI (Thanks  to Timardo)
+- Blacklisted Beehives, Ender lead and Bee nests from Travelers backpacks due to performance issues
+- Implemented Frost Ranged and Fire Ranged Spell Schools, they now benefit from frost and fire spell power besides ranged weapon damage
+- All Mintaka's Fright spells are now Frost Ranged spells
+- All Alnilam's Sight spells are now Fire Ranged spells
+- Multi trapdoor opening is now disabled, which should mean trapdoors no longer open all at once
+- Lowered butterfly spawn weight to avoid butterfly infestations.
+- Lots of misc small fixes
+- Changed the flickering redstone lamp from derelict to fancy instead of fabulous, this should fix any issues or lag it caused
+
+## Mods
+- Added Industrial Revolution EMI Plugin
+- Updated Archers Expansion, Azurelib, Crash Assistant, Double Doors, Dynamic Resource bars, Entitiy Culling, FancyMenu, Immersive Melodies, Lithostitched, ModernFix, Moonlight Lib, More RPG Library, Not Enough Animations, Packet Fixer, 3D Skin Layers, Structure Essentials, Supplementaries, Applied Energistics 2, Packet Fixer
