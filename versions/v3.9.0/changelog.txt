@@ -1,0 +1,59 @@
+## Prominence II: Hasturian Era v3.9.0
+**The Calm before the Storm**
+
+This update introduces the balance changes of v4.0, as a way to publicly test the new changes before it releases with the Kingdom of Vaaz update. Along that, some quest changes have been added and +40 mods have been translated to all spanish variations.
+
+**See you soon on Vaaz, Flameborn.**
+
+## Important Changes
+- **Quest Changes,** with new rewards, fixed mistakes and things to make progression clearer.
+- **Heavy Balance Changes,** TONS of balance changes, which were previously aimed to be released with v4.0, have been added into this update.
+- **Spanish Translations,** over 40 new mods have been translated by community contributions, making the modpack almost fully translated to spanish.
+
+## Changes
+- Updated a few of the quests to give better rewards to encourage reading (!) and to make progression a bit more clear
+- Fixed some spelling mistakes, added some more info to the Main Questline, retconned some aswell
+- Guns are slightly more viable but shouldn't be able to compete with archers thanks to new enchants
+- Fallen icons bossfight changed very slightly
+- New weapons: Bloodlust, Tonitrus
+- Lots of bugfixes and overall slight performance boost
+- Travelers backpacks: Added Item Tag support to Pickup Upgrade, Void Upgrade, and Magnet Upgrade
+- Ender Dragon should no longer oneshot any flying player because it wants to
+- Added Spanish translations for +40 mods.
+- Fixed sortiledge enchants
+
+## Balance Changes
+- Sword of Freyr now is a bit tankier and wont die as fast, still a bit useless and considered a gimmick weapon
+- Posture and bleed mechanic found in soulslike weapons has been reworked
+- Infinity now works on guns
+- Rage essence ability use lessened (this should equal less max str)
+- Rage essence ability cooldown lengthened (harder to maintain str effect from rage essence)
+- Soulrender max stacks are now 3 with the amplifier being 2
+- Astral shift cooldown lengthened by 3x
+- Disabled immolate, float, and pincushion gems, simply too strong
+- Disabled Posture Break on mobs
+- Disabled radiance (has immolation) and leaping (ability is not in this pack) gems
+- Lowered arcane from archon to max of 2
+- Disabled chilling (it could stack, too op for pvp)
+- Raised crit hit to max of 3
+- Raised committed to max of 4
+- Lowered freezing to max of 1
+- Lowered stunning to max of 1
+- Lowered weakening to max of 1
+- Disabled cobweb shot
+- Disabled tempo theft
+- Lowered stagger to max of 1 and changed it to Rare
+- Lowered icy thorns to 1
+- Lowered reflective defenses to 2
+- Lowered shield bash to 3
+
+# Credits
+- AlmdudlerKing, Afterlyte and Sideralis Music for the balancing changes
+- AlmdudlerKing for quest changes, and Minfae for helping out on some of them
+- Numerok for reporting an issue from Dragonfight on GitHub
+- Misha and Askaban for contributing Spanish translations of +40 mods that were previously untranslated
+
+# Mods
+- Added [Let's do] EMI Compat
+- Updated 41 mods
+- Removed opac fabric create support (Obsolete)
