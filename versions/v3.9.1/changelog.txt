@@ -1,0 +1,29 @@
+# Prominence II: Hasturian Era v3.9.1
+**QoL n' Gun**
+
+Happy prommy friday! This update brings a lot of QOL changes that should help majority of players in some way or another, clearing up some confusion, as well as adding a enchanting questline.
+Gun users (all 3 of you) have been compensated for the loss of posture break by adding some buffs to weapons.
+
+## Changes
+- Added buttons to the new Patreon in the main menu and game menu 
+- Added Uranite and Nether Quartz to the mining rig
+- Added Enchanting Questline packed with a guide, some info and a lot of great rewards
+- Added a secret to the enchanting questline, just keep enchanting, don’t worry!
+- Changed the last quest in Hasturian era, since i forgot to change it previously
+- Added 2 quests to the starter section explaining chunkloading
+- Added phantoms to the mobs that spawn when crystals are destroyed, doubled the spawn rate, in return, no more lightning will come down, so no items will be destroyed by accident
+- Since gun lovers took a hit with posture break being disabled:
+ - Changed ricochet to have 1 more bounce at max level
+ - Increased explosive rounds level to 5
+ - Increased chain lightning damage and its range
+ - Lowered blunderbuss colldown by 25%
+ - Increased gatling gun dmg by 30%
+ - Lowered cooldown until the gatling gun can shoot again
+ - Lowered hunter cannon cooldown and increased its damage
+ - Lowered hunter pistol cooldown and gave it a little dmg buff
+- Removed totem of illusion due to easy duping bug
+- Removed small ships due to performance issues unmatched by any other mod as of yet
+
+## Mods:
+- Added Bad Wither No Cookie, Extreme Sound Muffler, EMI Professions, EMI Ores
+- Removed Small Ships (TPS Issues)
