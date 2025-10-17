@@ -1,0 +1,70 @@
+# Prominence II: Hasturian Era v3.9.2
+**v3.9.2 - Legolas joins the Shadow Wizard Money Gang**
+
+As the name suggests, this update heavily buffs elemental archery spellbooks, focusing mostly on lowering cooldowns but also increasing the spell damages, allowing for the builds to center more towards magic than ranged damage. Huge thanks for both Sid and Alm for working on these changes.
+
+## Changes
+- Added new textures for Archon items, created by none other than Eftann!
+- Added warnings for incompatible mods via Crash Assistant
+- Fixed dupe related to backpacks
+- Fixed uraninite not being mined by mining rigs
+- Fixed patreon button in the pause menu not being properly anchored 
+### - Heavily buffed elemental archery;
+- Smoldering Arrow 
+  - Changed the duration from 2 to 4
+  - Increased spell coefficient from 0.1 to 5.0
+- Dual Shot
+  - Increased velocity from 3.15 to 5.15
+  - Increased damage multiplier from 0.7 to 0.9
+  - Lowered cooldown from 8 to 6 seconds
+- Point Blank Shot
+  - Cooldown duration lowered from 16 to 12
+  - Coefficient changed from 1.0 to 2.0
+  - Increased velocity from 2.5 to 4.5
+  - Lowered cast duration from 1.0 to 0.7
+- Pin Down
+  - Cast duration lowered to 1.2 from 1.5
+  - Increased velocity to 3.0 from 2.0
+  - Increased spell power coefficient from 1.2 to 3.8
+  - Changed cooldown from 28 to 23 seconds
+- Frozen Pact
+  - Lowered cast duration from 0.5 to 0.3
+  - Lowered cooldown from 22 to 16 seconds
+- Frozen Shot
+  - Increased the amount of frost hit you can stack from 6 to 8
+  - Increased amplifier from 6 to 8
+  - Status effect amplifier is now 30 
+- Arctic Volley
+  - Increased range from 24 to 35
+  - Lowered duration from 0.6 to 0.5
+  - Increased projectile velocity from 1.3 to 3.3
+  - Increased launch count from 5 to 9
+  - Lowered divergence from 35 to 25
+  - Gave it 1 pierce instead of 0
+  - Changed impact spell power coefficient from 0.3 to 0.8
+  - Lowered cooldown from 10 to 9
+  - Velocity is now 3.8
+  - Spell power coefficient is now 3.0
+  - Massively lowered cooldown
+- Enchanted Crystal Arrow
+  - Increased range from 64 to 100
+  - Lowered cast time from 1.25 to 0.75
+  - Increased projectile velocity from 1.8 to 3
+  - Increased homing angle from 2.0 to 4.0
+  - Increased pierce to 1
+  - Increased impact spell power coefficient from 1.0 to 1.8
+  - Increased stun duration from 2 to 4
+  - Increased area of impact from 3 to 6
+  - Lowered the cooldown duration from 28 to 24
+- Choking Gas
+  - Lowered cast duration from 1.25 to 0.8
+  - Increased velocity from 1.2 to 2.2
+  - Increased area impact from 5 to 8
+  - Increased spell power coefficient from 0.75 to 1 
+- Removed the spell override from high level spellbooks due to the new changes
+
+## Mods
+- Added Archers Expansion - Balancing Datapack for Prominence II (Thanks Sideralis & AlmdudlerKing)
+- Added Archon Reforged (CURSEFORGE ONLY)
+- Added Prominence II Iron Chest Retexture (CURSEFORGE ONLY)
+- Updated Complementary Reimagined, Euphoria Patches, Crash Assistant, Traveler's Backpack
