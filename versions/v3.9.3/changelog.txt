@@ -1,0 +1,20 @@
+# Prominence II: Hasturian Era v3.9.3
+**v3.9.3 - Overhauled Tiers, More Reforging, MYTHIC LOOT!?**
+
+As the name suggests, this update introduces changes to tiers! From overhauled tiers (especially shields) to allowing the reforging of non-reforgeable items, to mythic items spawning on loot and crafting! 
+
+## Changes
+- Very big changes to Item Tiers:
+  - Mythic gear can now be crafted and found in loot
+  - Shield tiers were reworked to match armor values, to have them as a "5th armor piece"
+  - Removed offhand from valid equipment slots for bows to prevent dual wielding exploiting for unnatural ranged stat buffs
+  - Made various previously non-reforgeble items now reforgeble
+  - Changed many of the stats given by tiers, you can see them [on this spreadsheet](https://docs.google.com/spreadsheets/d/1qPMfS5KAMPM2X_8mP73K6M1aN07oDymGpewoeGihuK8)
+- Feral claws have been removed (finally) from loot.
+- Fixed crash where villagers opening doors could have a chance of crashing the game.
+- Changed window title of the modpack
+
+## Mods
+- Added Tierify - Prominence II Tweaks
+- Added Loot Tweaks of Artifacts - Utility Datapack for Prominence II
+- Updated Double Doors, Collective
