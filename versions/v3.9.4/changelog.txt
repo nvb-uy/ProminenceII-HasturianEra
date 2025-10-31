@@ -1,0 +1,43 @@
+# Prominence II: Hasturian Era v3.9.4
+**Sir Scar Crow - Halloween Event!**
+
+Happy Halloween! This update introduces a new halloween event, and boss, called **Sir Scar Crow**, with its own mythic version, playable until November 12th (Nov 14th for the mythic version).
+Not just a boss - also find a new unique weapon, the **Scarred Night**, and a new transmog appearance, the **Pumpmourne, Blade of the Haunted Pumpkin**. Both obtainable as a chance from the mythic version of Sir Scar Crow.
+
+**To summon the normal version of Sir Scar Crow, follow the questline "Spookiness in the air", which will be automatically unlocked once you join your world.**
+
+Ok sorry it's not just that, Unholy Death Knights also got a terrifying buff, fits the theme, doesn't it?
+
+## Important Changes
+- **Seasonal Events.** This is the start of a new trend in Prominence II, seasonal events. This updates adds the "Scarred Night" Halloween event, playable only through October 20th to November 12th, featuring a boss (+ mythic variant) and a small questline to get to the boss.
+- **Unholy Death Knight Buff.** A full buff for Unholy Death Knights! They were one of the worst classes previously and unperformed by a lot compared to Frost, so this buff aims to make it more viable in the late game.
+- **Small Holy Builds Buff.** Many weapons now give holy power and have the Smite spell by default, making paladin's gear options broader.
+
+## Changes
+- Added new boss; Sir Scar Crow, with a mythic variant, exclusive to the halloween event.
+- Added new unique weapon exclusive to the halloween event; Scarred Night. Obtianable through the killing of mythic Sir Scar Crow, with a 40% chance.
+- Added new transmog appearance; Pumpmourne, Blade of the Haunted Pumpkin. Obtainable through the killing of mythic Sir Scar Crow, with a 20% chance.
+- Changed Crash Assistant's links to gnomebot.ai instead of mclogs.
+- Removed Crash Assistant's intel chip warning and mod warning due to false positives.
+- Excluded all mounts from damage of spells to avoid accidental killing
+
+## Balancing Changes
+- **Holy Moly!** Holy Builds have been buffed and made more streamlined!
+  - Fixed Ruby weapons from Paladins not having Smite
+  - All Paladins weapons now give Holy Power
+  - All Simply Sword Claymores and Greathammers give holy power
+  - Some Minecraft Dungeons Weapons(all Hammers, Maces and Claymores) and the kirkhammer from Mariums Soulslike weaponry give Holy Power
+  - Smite is now on the weapons mentioned above if it wasn't there already
+- **Unholy Moly!** Unholy Death Knights have been the worst of the bunch, not offering much at all compared to their two brothers. To make Unholy more fun it has also been buffed!
+  - Heavily increased physical and spell Coefficient on all Spells.
+  - Lowered cooldown for all spells 
+  - Increased ranged through the board 
+  - Increased the Plague stack count from 6 to 8
+
+## Mods
+- Added Paladins - All the Smites
+- Added Simply Swords - All the Smites
+- Added Spell Compat for MCDW - All the Smites 
+- Added Death Knights Balacning Datapack for Prominence II
+- Downgraded Immersive Messages API to v1.0.5
+- Updated Prominent, Sbprom
