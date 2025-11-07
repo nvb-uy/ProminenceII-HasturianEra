@@ -1,0 +1,19 @@
+# Prominence II: Hasturian Era v3.9.5
+**Fixes & Loot Changes!**
+
+This update focuses on fixing the issues with Supernova not casting spells and A'zhar not having the new model.
+
+This also includes the new release of the **Official Server Browser!** you can find it below:
+👉 [Cinderstone Studios' Official Server Browser](https://link.cinderstonestudios.com/serverbrowser)
+
+## Changes
+- Added new updated textures from Ashen
+- Added many new reforges for items that weren't reforgeable previously
+- Fixed Supernova not being able to cast spells anymore
+- Fixed S'kellak's blessing not working properly
+- Fixed A'zhar having the old model
+- Removed War Archer, Tundra Archer and Deadeye Archer disabled sets from loot pool (Thanks Afterlyte and Almdudlerking!)
+
+## Mods
+- Added Loot Tweaks for RPG Series
+- Updated Ashen, Pufferfish Attributes
