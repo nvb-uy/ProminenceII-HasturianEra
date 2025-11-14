@@ -1,0 +1,21 @@
+# Prominence II: Hasturian Era v3.9.6
+**Goodbye Seasons!**
+
+This small but important update has a few important changes, the biggest one being the removal of seasons. Honestly, it's something that most players do not like, it messes up with builds, creates issues with the ice & snowing, and has plenty of performance issues in servers.
+
+Another important feature is that AE2 has gotten quite a few changes! Firstly, it now features a Create-esque design (Toggleable via Resourcepack), and its recipes have been changed to better fit this style. Of course do not worry, old recipes are still craftable meaning your autocrafting will still work.
+
+Oh and quivers are craftable now!
+
+## Changes
+- YOUR SETTINGS WILL BE RESET! This is important for the update to work properly, please do not move back your options.txt, instead, re-do your keybinds and other settings.
+- Removed seasons
+- AE2 now has a Create theme
+- Added alternative recipes to all AE2 items & blocks that fit the Create-ization (Thank you Alm!)
+- Quivers can now be crafted
+- In-game server creator now has support for BisectOne plans, removing references to the old Budget & Premium plans
+
+## Mods
+- Added Quivers for all, Create Energistics, Create: Applied Energistics 2
+- Removed SeasonHUD, Fabric Seasons, Fabric Seasons: Croptopia Compat, Fabric Seasons: Delight Compat, Fabric Seasons: Extras, Backpacked Recipe Fix (Why was this even in)
+- Updated BisectHosting Integration Mod
