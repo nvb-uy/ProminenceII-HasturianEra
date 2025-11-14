@@ -1,11 +1,11 @@
 # Prominence II: Hasturian Era v3.9.6
-**Goodbye Seasons!**
+**Goodbye Seasons! And Sir Scar Crow is not gone!**
 
 This small but important update has a few important changes, the biggest one being the removal of seasons. Honestly, it's something that most players do not like, it messes up with builds, creates issues with the ice & snowing, and has plenty of performance issues in servers.
 
-Another important feature is that AE2 has gotten quite a few changes! Firstly, it now features a Create-esque design (Toggleable via Resourcepack), and its recipes have been changed to better fit this style. Of course do not worry, old recipes are still craftable meaning your autocrafting will still work.
+Another important feature is that AE2 has gotten quite a few changes! Firstly, it now features a Create-esque design (Toggleable via Resourcepack), and its recipes have been changed to better fit this style. Of course do not worry, old recipes are still craftable meaning your autocrafting will still work. Oh and quivers are craftable now!
 
-Oh and quivers are craftable now!
+On a final note, Sir Scar Crow will now be available as a mythic boss for the entirety of November, although the main questline for the seasonal event already ended and the normal version cannot be summoned no more.
 
 ## Changes
 - YOUR SETTINGS WILL BE RESET! This is important for the update to work properly, please do not move back your options.txt, instead, re-do your keybinds and other settings.
