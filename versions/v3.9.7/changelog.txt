@@ -1,0 +1,19 @@
+# Prominence II: Hasturian Era v3.9.7
+**Simply More Stuff!**
+
+This small update focuses on unique items from Simply Swords. It fixes the chances of unique weapon drops, overhauls the questline (Ty alm!) and now many of the campaign bosses can drop unique weapons.
+
+Enjoy the new questline filled with references, easter eggs, and of course lots of rewards! Even smaller quests to get specific weapons like the Molten Core (Yes! Fyr'alath will be easier to make)
+
+## Changelog
+- Fully Reworked the Simply Swords Questline, now offering a Quest for all Unique weapon - with some easter eggs and references! 
+- Fixed Simply Sword chance for the Wither being 3x lower than it should have been
+- Added a Simply Sword drop chance for the following bosses: Night Lich, Decaying King, Nether Gauntlet, Conjunctivius, Obsidilith, Null and Magus (Chances for these have been added to the Simplyswords Questbook page)
+- Fixed Village Weaponsmith loot injection
+- Fixed Andesite Alloy Block overwriting the Iron block Recipe when Duping Presses
+- Fixed the Oaths no longer having any rarity of the Shield you used(Recipe changed, you will still keep your Spellbook!)
+- Removed an obsolete SimplySword Config
+
+## Mods
+- Updated HighlevelSpellbooks, Loot Tweaks For Artifacts, Create Energistics
+- Removed Let's do Beachparty (Worthless content, trinkets do not work, overall bloat)
