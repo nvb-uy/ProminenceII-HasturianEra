@@ -1,0 +1,45 @@
+# Prominence II: Hasturian Era
+v3.9.8 - Esentially Enchanting!
+
+This Update fixes the rarities of the Enchants. Protection, Sunfire and Sharpness as well as many other can now be acquired easier if you max out your Enchanting Table. The Enchanting bloat has been reduced and Enigma Resonator has been reintroduced. Added Excavators
+
+But not just that! It also introduces the addition of the highly requested Essential Mod, which adds cosmetics, a friend system, screnshot sharing, world sharing and more! Buying Essential cosmetics will directly support the project as we get an affiliate from it!
+
+## Changes:
+- Added the Essential Mod, introducing cosmetics, a friends system, screenshot sharing, world sharing and more!
+- Added OnlyExcavators - like a Hammer but for Dirt!
+- Reworked Enchanting by removing bloat and balancing rarities properly
+- The following Enchants have been *removed*:
+  -**Tether,**,**Ricochet**(for guns), **Phantom Trace **,**Frostsilver**(high posture dmg), **Blight Carrier**(more dmg if target has more armor), **Misfire Curse**(noone needs it), **Ethereal**, **Defiance**(overall useless even at lvl 20 it gives -5 dmg reduction), **Temptation**, **Spearfishing**, **Rebounding**, **Miner’s Fervor**(it's just a worse Efficiency), **Potent Poison**, **Stasis**, (the wrong) **Magic Protection**, **Rot stagger**, **Viscera**(i don't think this one even exists but just to be safe), **Fast Hands**, **Tempo Theft**, **Dipping Poison**, **Stunning**, **Soul Siphon**(overall bloat + soul devourer is better), **Refreshment**,** Poison cloud**,** Jungle poison**, **Illager's bane**(Bane of Illagers exists), **Surprise gift**, **Snowball**, **Recycler**, **Potion Barrier**, **Poison Focus**,** Heal Allies**(false conception of players that it scales with healing power), **Food Reserves**, **Fire Focus** (see heal allies)
+- The following Enchants have been made Tradeable:
+  - Acid Rain Proof, Space Breathing, Space Fire Proof, Gravity Normalizing
+- Game can now run in Borderless
+- Increased warding from 5 to 10
+- Increased Battlerouse from 4 to 5
+- Increased Gravity from 5 to 10
+- Increased Lucky Explorer from 3 to 6
+- Buffed the Wind and Water Mill
+- Increased Black Ocelot Pelt Loot Rate
+- Doubled Matter Fabricators Input speed
+- Increased Knowledge of the Ages from 2 to 4 to compensate the Charm loss
+- Removed Reckless from the Loot Table of Armor, as a lot of Players were confused about the Enchantment
+- Made Vaazkar Optional in the Tank Quest "Hardly Harder" (Tier IV)
+- Made a Questline to Specifically avoid the Softlock of not being able to complete the campaign due to having too much Corruption resistance(This can be used as a Failsafe for if you run out of Luck with the Ominous eyes)
+- Fixed Magispear not having a Quest (*Simply *forgot heh)
+- Fixed the second Quest for your second Molten Edge not showing after getting your First
+- Small Layout tweaks in many Questlines
+- Added Gh'aj to the Rogue Questline
+- Moved Botania into Tech mods(It is a Tech mod, fight AlmdudlerKing about it)
+- Fixed Dropped XP having Impact on Talent Tree Progression as it tends to overlevel the user
+- Removed Charm of Ancient Knowledge for the foreseeable Future
+- Fixed the Dependancy Requirement for the Deepshelf Quest
+- Fixed Industrial Revolution Lead and Tungsten existing and also not being able to be Vein Mined
+- Big Cleanup of the Zenith Attributes(Stats Screen in your Inventory!) by removing non-important Information and especially obsolete one
+- Fixed Digging Claws having a 100% Spawn rate in Village Toolsmith chests
+- Fixed Whisper of the Abyss still using the Vanilla combat style
+
+## Mods
+- Updated Loot Tweaks For Artifacts - Utility Datapack for Prominence II
+- Added Essential Mod, OnlyExcavators, OnlyExcavators - Recipe Balancing Datapack, Sodium Extras
+
+A huge Thank you goes out to Afterlyte for helping with Enchants, Sawtu, Stalemated, Eden, D9ze and Lamp
