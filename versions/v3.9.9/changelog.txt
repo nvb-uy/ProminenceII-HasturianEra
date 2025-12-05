@@ -1,0 +1,39 @@
+# Prominence II: Hasturian Era
+**3.9.9 - End Update!**
+
+Complete End Quest overhaul, QoL Changes to get to the End easier and all Bosses found in the Main campaign are now entirely renewable!
+
+First things first: **The next update will not be 4.0, it will be 3.9.10**. Although I am cooking something, keep your eyes out on the announcements channel.
+
+## Changes
+- **YOUR OPTIONS WILL BE RESET!** This is necessary to fix various keybind issues introduced last update.
+- New and Reworked End Questline - now also mentions Explorers Compass, with a repeatable Quest to get other Eyes
+- **Added Recipes for the following things:**
+  - All Gems from Mythic upgrades on the Cutting Table for the Crystal Block -> gem
+  - All Smithing Templates for the same Gems
+  - Cornelias Horn (Shell Horn)
+  - Draugr Sword
+  - All End Remastered Eyes have a recycling Recipe(See the End Questline for the recycling)
+  - Added Etryr Block Recipe, which unlocks some Etyr Blocks
+  - Added a Dragon Egg Recipe
+- New Weapon: Mehrunes Razor
+- Removed Combustion Charge from the game as it was part of an Exploit
+- Fixed small issues with other Questlines
+- Properly removed the Gun Enchants that were Removed previously
+- Lowered Wither Unique drop chance by 5% as it was on 20% to make up for it being bugged beforehand
+- Hopefully fixed not all Villages having a Waystone
+- Buffed Dragon Egg Siphoner
+- Lowered Butterfly spawn weight **once again** - how does this keep happening?
+- No more Scarecrow, its Christmas *smh*
+- Added new Sorting methods for the Travelers Backpacks
+- Equip button is now visible when the backpack is opened from inventory
+- Made Mythic loot chances lower
+- Fixed some Keybind conflicts on "r" and "b"
+
+## Mods
+- Added Alm's Recipe Additions
+- Updated Travelers Backpacks, Tierify - Prominence II Tweaks, Applied Energistics
+
+## Credits
+- AlmdudlerKing for developing most of this update.
+- Afterlyte for working on the Tierfy tweaks datapack, and doign some suggestions.
