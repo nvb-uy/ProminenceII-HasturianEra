@@ -463,13 +463,24 @@
       },
       "updateType": "minor"
     },
-        {
+    {
       "id": "v3.9.10",
-      "releasedAt": 1764978713509,
+      "releasedAt": 1765501211231,
       "promotions": {
           "downloads": {
               "modrinth": "https://modrinth.com/modpack/prominence-2-fabric/version/3.9.10",
               "curseforge": "https://www.curseforge.com/minecraft/modpacks/prominence-2-rpg/files/7325935"
+          }
+      },
+      "updateType": "minor"
+    },
+    {
+      "id": "v3.9.10hf",
+      "releasedAt": 1765586221231,
+      "promotions": {
+          "downloads": {
+              "modrinth": "https://modrinth.com/modpack/prominence-2-fabric/version/3.9.10hf",
+              "curseforge": "https://www.curseforge.com/minecraft/modpacks/prominence-2-rpg/files/7326350"
           }
       },
       "updateType": "minor"
