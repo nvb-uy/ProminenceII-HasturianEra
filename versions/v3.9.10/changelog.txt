@@ -1,0 +1,39 @@
+# Prominence II: Hasturian Era
+**v3.9.10 - Nether Ending Jollyness!** Nether Update with a bunch of new and useful Crafting Recipes!
+
+This update Reworks the Nether Questline, you can now also recycle armor. A lot of fixes and QoL changes were added too.
+
+**Also feel the jolly in prommy!** A new Holiday decorations mod, Macaw's Holidays, has been added. These decorative blocks will not be craftable once the holiday season ends, they will become craftable again closer to holidays next year! So make sure to play now if you don't wanna miss it!
+
+## Changes
+- Mythic Mounts no longer take any Damage from you as long as they are tamed by you
+- All Backpack Upgrades now have 16 slots instead of 9, Magnet upgrade has +3 more Range
+- Buffed Suns Grace Mace Holy Power from 5 to 5.5
+- You can now get End food using normal Weapons(This was supposed to come with 3.9.9)
+- Removed a couple of Items from the Item Obliterator that didn't exist anymore, sorted the list alphabetically
+- Finally added the Horse to the friendly Mounts so Spells dont damage them anymore
+- Removed outdated Info on the Eldritch Eye
+- *The following Recipes have been added/reworked:*
+  - New Lost Soul Recipe replacing the old one(from Soul Sand to Soul Soil)
+  - Added Haunting Recipes for Pyrite Dust from Glowstone Dust
+  - Added Haunting Recipes for Pyrite Chunk from Glowstone Block
+  - Added Recycling Recipe for Netherite Tier 3 Rpg Series Armors and Gear
+  - Added Gold Ingot Recycling Recipe for Iier 2 Accessories
+  - Added Recipes in the normal Furnace for Pyrite Dust, small dust and from Glowstone Blocks
+  - Added smelting Recipe for Galena Dust from Galena Ore
+  - All Create: New Age Overcharged Items can be charged in an Energizing Orb
+  - Alt Recipe for Niotic Crystals and Energized Steel from overcharged Items
+  - Added Aeternium and Terminite Ingot to the Alloy Smelter Recipes
+  - Same Recipes to recycle have been added to the Blast furnace from Tech Reborn, giving higher yield
+  - Added Steel Block from Iron Block and Ingot in the Blast Furnace (Old Ad Astra recipe)
+  - Added Lead, Helium Plasma and Platinum dust to the Fusion Reactor
+- Added missing Spanish translations to Modrinth
+- Added recipes for Etyr blocks
+- Fixed dupe on end quest
+
+## Mods
+- Added Macaw's Holidays, End Food for Everyone, Only Excavators - Ashen Style
+- Updated Alm's Recipe Addons
+
+
+A huge Thank you goes out to AlmdudlerKing for making the update changes, Afterlyte for helping with Enchants, Sawtu, Stalemated, Eden, D9ze, Lamp and TM27
