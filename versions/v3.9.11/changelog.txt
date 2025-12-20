@@ -1,0 +1,21 @@
+# Prominence II: Hasturian Era
+**v3.9.11 - To the Stars! & Jolly Gifts!**
+
+This update's biggest focus is the rework of the Ad Astra Questline - This Change has been overdue ever since it has been updated to its latest version, atlohugh the update has less of an impact to a large majority of players, there's still something else:
+Christmas Gifts! A new questline has been added, which will be exclusively available for two updates (Only this year!! It's not repetable like the halloween one). It contains a bunch of gifts! Although Santa will not give them for free, you'll have to meet certain requirements before claiming them, such as killing some bosses! (Spoiler: ||Santa is S'kellak||)
+
+Sorry for the delay, it was impossible for me to upload the update yesterday as I wasn't home. So enjoy this Prommy Saturday!
+
+## Changes
+- Updated Fabric Loader to 0.18.3
+- Added the new Astral Realm Questline
+- Added the Christmas Questline, with lots of gifts!!! 
+- Removed bloat MCDA Armor pieces
+- Removed Butterflies (Kept spawning like the plague)
+- Tier 4 Trinkets now show their Drop locations
+- All Soulbound items from our custom content (Artifacts, Illusions, etc) are now protected against pickup from other players, lava, cacti, explosions and despawning. Thank you Stalemated for this solution!
+- More Distillation Tower Recipes that can help with progressing anything Oil Related - more to come!
+- Fixed Macaw's Holidays not being present in server packs or the Modrinth version
+
+## Mods
+- Added Artifact Protection - Prominece II, Alms Oil Compat, Simple Snowy Fix (Forge / Fabric)
