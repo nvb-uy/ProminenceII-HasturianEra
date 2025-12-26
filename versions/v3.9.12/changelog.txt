@@ -1,0 +1,36 @@
+# Prominence II: Hasturian Era v3.9.12
+**v3.9.12 - Spell Schools Expanded!**
+
+Added Spell power to a ton of weapons, added class specific spells to a few select groups (Greataxes, scythes) Progression should now be more smooth and weapons should now indicate better what class they are made for.
+
+You may be asking yourself: Why can't X Weapon Cast Spells? Because of technical limitations, we cannot get them to cast without making it buggy or weird for players to use, however there are plans to fix this by v4.0.
+
+**Warning: Any items from Immersive Armors will be deleted.**
+
+## Changes
+- Added Greataxes to weapons that get Death Strike
+- Added Scythes to weapons that get Festering Strike
+- Some select Soulslike Weapons can now use Smite
+- Spell Enchants now go on Magister, Gleaming and Archer Armor
+- Spell Infinity now goes on more Weapons. 
+- Many Simplyswords have gotten Spell Power, to compensate their scaling was lowered
+- Heros armor can now take 8 Enchants instead of 6
+- All Spellblades (Glacial Gladius, Flaming Falchion and Arcane Cutlass, Fire, Frost and Arcane Claymores) can now take 8 Enchants instead of 6
+- Skill Tree has become more clear and should now properly display all values the nodes give 
+- Also shows the hidden nerfs and buffs each node gives properly - no, Elemental Archers havent been nerfed
+- Omnivamp has been replaced with Life steal as it previously didnt work
+- Removed Industrial Revolution's Cables from the Questbook - this is the first step to removing them, dont worry, this process will be finished once 4.0 drops!
+- Anti-softlocking Quest for the Ominous Eyes is now repeatable 
+- Changed the 2nd Molten Edge Quest to imply which mob you need to kill because people can't figure out basic implications, good job
+- Changed the Quest Layout for one of the Music Disc Collection, cleaned up Beachparty related Quests
+- Added Two clickable Icons in the Hasturian Era Questline that lead to the Blog Post and the first Trailer - These are not Quests!
+- The War on Butterflies has ended! They should now be fully gone - hopefully...
+- Changed the Wood type in a End Quest being the wrong type
+- Fixed End Questline's Wood Requirements not accepting all wood types from that type of Wood
+- Removed obsolete Beachparty Quests
+- Fixed Quickcharge not working
+
+## Mods
+- Added Spell Enchants for All, MCDA - Lightning Unlimited, Spellblades n Such Unlimited, Spell Enchants Expanded, Marium's Soulslike Weaponry - All the Smites, Simply Swords - All the Festering Strike, Simply Swords - All the Death Strike
+- Removed Immersive Armors (Armor bloat)
+- Updated Packet Fixer
