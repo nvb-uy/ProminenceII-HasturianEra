@@ -1,0 +1,46 @@
+# Prominence II: Hasturian Era v3.9.14hf
+**3.9.14 Recycling, Compat and more!**
+Happy new 2026! This Update will be the first one to start depreciating Industrial Revolution as it will be removed in a future version - when this happens you will know a couple of updates before! Use them as long as you can, before the mod is removed, many blocks will be swapped with their Tech Reborn or Modern industrialization counterparts. This update makes Industrial Revolution cables un-craftable, Autocrafting recipes may not like this change.
+
+This Update consists of 3.9.13 and some additional changes from 3.9.14, sorry about missing Prommy friday last week! New years complicated things.
+
+## Changes:
+- Added a Heart of the Sea crafting Recipe
+- Made all Spellblades Recyclable into their specific Spell School's item(Prismarine, Amethyst and Blaze Rod)
+- Added Recycling Recipes for the Quartz Amulets
+- Thread of Hope can be gotten from Smelting in Starforge
+- You can now bulk Haunt skeleton Skulls to Wither Skeleton Skulls
+- Runic Tablets can be duped with 8 Nether stars now
+- Butterflies have been removed from the game. (Spawns -> No Longer spawns)
+- Added a new Part to the Claims Config to be able to change Permissions for Computercraft Interfaces und My Player Config
+- Keyboard and other peripherals have been added to said config and to the game
+- Added IronChests to the Chests Opac Config list
+- Added the Ability to craft Chipped blocks etc in the Stonecutter and Mechanical Saw from Create - they can now be automated, yay!
+- Increased Spawn Weight for Hellhounds and Snakes
+- Repaired some Skill nods in the Skill Trees of some Artifacts
+- Frostmourne nodes got changed, there is a free reset in the Artifact Reforging Questline!
+- Removed Gilded Armor due to an exploit
+- Sunfire, Energize, etc. should now go on Armor again, sorry about that lol 
+- Removed Aqua shield Recipe
+- Wines have been Limited to a Effect Strength of 3
+**NEW Modern Industrialization changes:**
+- Power is finally Compatible with the rest of the Tech mods with a 1:1 Conversion!
+- New Cheaper Pipe Recipe, old Recipe now gives twice the amount of Pipes instead!
+- Note that more Pipe/Cable Recipes will follow soon, with their Industrial Revolution counterparts being disabled down the line
+**Phasing out Industrial Revolution**
+- Industrial Revolution Cables have been made Uncraftable - use Tech Reborns Cables instead!
+- Check your questbook for more info 
+**3.9.14 Changes**
+- Added new recipes for Etrium blocks, rods and plates, Rubber sheets and Etrium ingots
+- Cleaned up some not existing Enchants so they dont show up in EMI
+- Disabled some Innate Enchants
+- Added Another Config Menu option for all AE2 Terminals
+A Huge Thank you goes out to Tiviacz for the following Travelers Backpacks fixes and changes:
+- Removed the Sort button in Travelers backpacks that sometimes clipped over or under buttons - use the integrated Function! 
+- Backpacks now accept items containing Mobs, such as Ender leads and Bee Hives
+- Fixed a crash with the Spectral Platform and Travelers Backpacks
+- Backpack effects are now turned on by default
+
+## Mods
+- Added Techreborn Player Ability Lib Compat, Chipped Express, Legendary Tooltips x Traveler's Backpack Fix
+- Updated Alm's Recipes, Spell Enchants for all Armor Edition, Travelers Backpacks
