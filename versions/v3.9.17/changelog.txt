@@ -1,0 +1,31 @@
+# Prominence II: Hasturian Era v3.9.17
+**3.9.17 - Gadgets, Cheese and Mythics!**
+This update Overhauls the Gadgets Questline, Adds a New Questline. Weekly Reminder that Industrial Revolution will slowly be phased out - Same thing will also happen to Computercraft as the Dev does not Maintain Curseforge and due to the lack of Updates (Plus the 1:1 Modrinth and Curseforge compatibility), it would be impossible to Update Create to 6.0.
+
+## Changes:
+**New Questline**: Trophy Collection
+- Adds Info quests for all Items crafted with Cinderstone Trophies, also explains what they do and when to craft them.
+- Small Rework of the Gadgets Questline to expand upon more useful Mods and Items the player may need
+- **New bosses** have been Added to the Mythic Hourglass, there will be a new rotation every week!
+  - Note: Some bosses will never be in rotation due to their difficulty or overall gameplay loop. (Doesn't mean they will never ever be in it<:tf:1203075724991397929>)
+- Unified Cheese from Ad Astra and Croptopia
+- Fixed Heart of the Sea Recipe
+- Added Recipes to the Assembler for Item Pipes and Fluid pipes
+- Added more Etyr Variants
+- Fixed Gold Quartz Amulet recipe
+- Brimstone can now be grinded down to Sulfur dust
+- Sulphur from Better End now has a use
+- Small fixes in other quests, fixing spelling mistakes and lacking info
+- Removed more quests from Industrial Revolution - Next update will remove obsolete Machines from being Crafted(e. Electric Furnace, Compressor) as well as the Farmer and Fisher(use Greenhouse Controller and Fishing Station instead)
+- Fixed numerous Issues from Travelers backpacks such as not being able to use buckets or place boats on servers
+- Fixed an Inconsistent Crash with Skin Layers 3D
+- Fixed a Bewitchment Charms not giving invisibility
+- Fixed Open Parties and Claims accidentally resetting
+- Fixed bursting Vitality not working
+- Removed Arkenplate, Hallowheart and their infused variants as they confused people and were just a downgrade
+- Removed Warden Armor (See Above)
+
+## Mods
+- Added VitalityFix, Bewitchment Tweaks
+- Updated Alms Recipe Additions, Alms Oil Compat, Travelers Backpacks, Travelers Backpacks x Legendary Tooltips, Skin Layers 3D
+- Downgraded Fresh Animations to 1.9.2
