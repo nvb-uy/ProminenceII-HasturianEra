@@ -1,0 +1,33 @@
+# Prominence II: Hasturian Era
+**3.9.19 - It's been 84 years...**
+This Update fixes some Energizing Orb Recipes and removes Lignite from findable ores as its just a weird looking coal that serves no purpose other than confusing players. All Lignite Coal in your World will be replaced with normal coal or Deepslate coal.
+
+Also brings quite a lot of updates to some mods, improving performance for all. It also rolls out a couple of smaller changes to Warriors and Rogues early game, making them scale more and be slightly less strong early on.
+
+## Changes
+- Added more recipes to the Energizing Orb
+- Added a Paladin Questline in the Gear and combat Tab - the entire tab will most likely get a overhaul in the upcoming weeks
+- You can now void Mana
+- Added Savanna and snowy Chef's delight Structures
+- Added config option to mute whole mods
+- Added two new ruins
+- Following upgrades can be used when backpack is placed as a block: Magnet, Pickup, Feeding, Refill, Furnace, Smoker and Blast Furnace Upgrades
+- Added more meaningful quest rewards to the Gear and Combat quest tab early on
+- Fixed a ton of Energizing Orb recipes not working, oops(Thank you d9ze(pq))
+- Fixed Blackstone Golem Ritual Quest requiring the wrong boss Quest done
+- Fixed Trinkets causing your inventory Player to flicker
+- Removed the Archon combustion charge Questline as it is no longer completable
+- Removed a lot of Obsolete Quests from the Spellcasting Questline that are either explained in "Unlocking Abilities" or the "Combat & Gear" Questlines
+- Removed Lignite from spawning, as it is just a differently looking coal with no other use, lowers the total amount of ores confusing players - note that this will not remove any lignite from chests, machines or recipes, it can still be obtained in the Quarry, for now
+
+## Balance Changes
+- Warrior Set: +4% > +3% physical damage
+- Berserker Set: 3, 8, 6, 3 > 2, 6, 5, 2 armor, +5% > +4% physical damage +10% > +5% knockback resistance
+- Netherite berserker: 0 > 1, 1, 1, 1 armor toughness
+- Rogue Armor: 5% > 2% speed, 4% > 3% haste
+- Assassin Set: 5% > 4% speed, 5% > 4% haste
+- Netherite Assassin: 5% > 4% physical damage, Chestplate specifically 4 > 5 armor, 0 > 1, 1, 1, 1 toughness
+
+## Mods
+- Updated Alm's Crafts and Additions, [Let's Do Addon] EMI Compat, Accessories, Alm's Oil Additions and Compat, Almost Unified, Amecs, Amendments, AppleSkin, Applied Botanics Addon, AttributeFix, Better Combat, Chat Animation, Chat Heads, Chef's Delight, CICADA, Connectivity, Dark Utilities, EMI Loot, EMI professions, Entity Culling, Extreme sound muffler, Farmer's Delight Refabricated, Icarus, ItemLocks, LambDynamicLights, Language Reload, Lithium, Lootr, Mutant Monsters, More Armor Trims, Not Enough Animations, Philip's Ruins, Pig Pen Cipher, Ping Wheel, Runelic, Travelers Backpacks
+- Removed TechReborn Player Ability Lib Compat (only needed with quantum armor)
