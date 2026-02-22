@@ -1,0 +1,42 @@
+# Prominence II Hasturian Era
+v3.9.20 Guns and Demons
+
+A **new subclass** just dropped! Guns are now an early to mid game alternative to Bows and crossbows. These Guns scale with ranged damage, but need a ton of ammo! Here is the first four horsemen!
+
+- Gatling gun: 20 second spin time, decent dps but it will slow you down and is a bit inaccurate
+- Hunter Cannon: Big boom! This weapon has the highest single target Damage out of them all, with a large cooldown!
+- Hunter Blunderbuss: A general jack of all trades, shoots 3 projectiles each doing decent damage and having the highest Velocity out of them all, not the most accurate
+- Hunter Pistol: The Blunderbuss' smaller brother is great for anyone who likes to shoot fast and having something to do whilst the other guys are reloading
+
+All of these work **with Infinity**, so dont worry about Ammo later on!
+*Why would i care about these, im a Warrior!!?*
+These guns **aren't only for Ranged Classes**! Guns come with unique enchants that can compliment **other playstyles!**
+
+- Tether Pulls an opponent(or friend if you fell silly) closer to you, just not all the way
+- Chain Lightning gives the guns a smaller AOE effect that can take care of large masses.
+
+Do note that their recipes have been adjusted, they are harder and require a Lord soul to craft.
+
+## Changes
+- Tweaked Ritual of Insanity as it was broken and confused players, sometimes sticking around for longer than it should, it will now give misfortune
+- Hotfixed & Lowered all Bewitchment seeds dropping from grass and such
+- Extremely lowered the amount of Dragons Blood Saplings can spawn in the Nether Fortress chests
+- Higher chance of Baphomet dropping more loot if Looting is used
+- Optimized Hellhounds' drop to drop more loot when killed with looting 
+- Upped Snakes drop more loot when killed with Looting
+- Reworked Vampires' drops. They drop more Blood bottles when killed with looting and in general
+- Ironed out Ghosts drops to drop less Ectoplasm
+- Significantly increased Demons' drops. Dropping more Demon horns and Demon hearts (Demons don't adhere to human anatomy!)
+- Now Snakes from Naturalist are added in the Pool of snakes that can drop Snake tongues, keep in mind Rattlesnakes and coal snakes do not do this yet!
+- Obviously, we didn't forget about cosmetics! You can now Transmog your Icarus Wings and your Travelers Backpacks!
+- Thankfully you no longer unequip Trinkets when you scroll over them!
+- Yep. Disabled the Mutant Skeleton Skull's Ability. It was crazy op lol
+- Expanded Crossbows compatibility with Mutant Skeleton Armor.
+- The guns may be worse than Orion as of now, but will be improved in the future. 
+
+## Credits
+Special Thanks to Eden & Stalemated for making various of the fix mods. Also thanks to Alm for the update's content!
+
+## Mods
+- Added Gun Scaling, Travelers Backpack Transmog Compat, Icarus x Transmog Compat, MouseTweaks x Accessories Fix, Mutant Skeleton Armor Tweaks
+- Updated Alms Recipe Additions
