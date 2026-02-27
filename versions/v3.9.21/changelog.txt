@@ -1,0 +1,36 @@
+# Prominence II: Hasturian Era v3.9.21
+**v3.9.21 - More guns?**
+Yeah we couldn't believe it either, but the Matter cannon and the Potato Cannon can now actually deal damage, shocker, isnt it? I mean just when you think it couldn't get any more ridiculous you can now beat the game with a cannon that can shoot potatoes. Reminds me of a game, something about portals...
+Some bosses just havent had the challenge they should have had. 
+
+Conjunctivius has been underpowered for a long while, even after his small typo, this update makes some bosses slightly harder to kill, whilst making most of Mariums Bosses undead and giving them higher XP loot.
+
+## Changes:
+- Fabric is now 0.18.3 on servers (Caused issues when installing the server manually)
+- Potato Cannon: This little thing not only costs Potatoes to shoot but also your sanity as it is a Tech weapon - meaning it requires some Create know how to be crafted
+- Matter cannon: Cheap ammo, Cheap Damage, good staple. Gold nuggets deal the most Damage.
+- Guns can now get Power and have reforges similar to Bows and Crossbows
+- Buffed Mythic Mount hp by x5
+- Buffed Conjunctivius hp from a health ,ultiplier of 3.5 to 6
+- Increased Conjunctivius Dmg by 10
+- Buffed Fallen Icon Hp from 550 to 650(ignoring lvl multipliers)
+- Chaos monarch is tankier
+- Fallen Icon now counts as Undead
+- Made all bosses Weakness resistant for any cheesing
+- Increased withered Demon Spawn weight
+- The Lich no longer heals when idle, so being killed by him should no longer mean he is back to full
+- Servers no longer experience nighttime forever if a Lich isnt killed
+- Increased XP Gain from most Mariums bosses (e.g. Decaying King, Fallen Icon etc.) by a lot
+- Glaive of hodir can now stack an additional 3 stacks and gains 0.02 more haste per level
+- Kirkhammer Silver sword transformation, Master Sword, Ludwigs holy greatsword deal an extra 8 dmg to undead mobs now instead of 2
+- Slightly increased the Execute threshhold of Mehrunes razor from 70 to 80
+- Mjolnir smash now deals 20 instead of 8 Damage
+- Changed the starting Archery node to give + 1 Ranged power so it works with Guns, Tooltip now explains that this is also the path for gun users
+- Banners can no longer be healed and have been nerfed to not give too much haste anymore
+- Mutant Skeleton Armor has been adjusted to be more Haste focused, meaning that it is equal to Archer and is purely preference
+- Backtracked the Rogue changes for now
+- Removed the AdventureZ Nightmare from the spawn pool, increased the Mythic mounts version's Spawnrate to compensate
+- Slightly increased the Spawn rate of Firebirds
+
+## Mods
+- Updated Gun Scaling, Mutant Skeleton Armor Tweaks, Tierify - Prominence II Tweaks
