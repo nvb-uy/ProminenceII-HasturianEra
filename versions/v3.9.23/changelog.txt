@@ -1,0 +1,47 @@
+# Prominence II: Hasturian Era v3.9.23 
+**v3.9.23 - Performance & Changes**
+
+This update adds a few smaller optimization tweaks as well as some new structures, incase you got bored. This Update also nerfs the matter cannon because it behaved a slight bit different to how we expected and fixes some smaller things in quests. The modpack should run easier on less ram and uses less resources when afking etc. 
+
+**Warning! Computercraft will leave Prominence in the next 3 weeks! Next week will disable all recipes. Save all your Programs before its too late!**
+
+New Structures! 
+Many new Structures have been added, new villages, new ships and much more! Of course these structures only spawn in new chunks. Many of these structures also use mods like Create and Supplementaries, perfect to roach in!
+
+12 New villages! Dozens of new structures in the Overworld, End and Nether! These structures, especially the Villages also use modded blocks and have a ton of refreshing and lively features - perfect for any Dungeon Roach!
+
+## Changes
+- YOUR OPTIONS WILL BE RESET!
+- Big performance increase - went from 600 fps to 1000 fps with no shaders O.o crazy jump!
+- Fabric is now 0.18.4
+- Matter Cannon has been nerfed severely as it didnt work as expected, oops
+- Added Quick mode switching for Building Wands: hold V to open a mode selector grid, tap V to cycle through modes
+- There is now an Axe mode for the Building Wand
+- Small tweaks to the minimap have been done, you shouldnt see much of a difference!
+- When killed, the Mob that got the kill credit no longer glows
+- Removed some Enchants that weren't obtainable from EMI
+- Testing if Botania will now be rendered when using shaders, especially Gaia
+- Removed some obsolete configs from mods no longer in the pack or that have newer config paths
+- Modpack should overall run more smooth and utilize less Ram, lots of small fixes and a patched memory leak(Thank you Pranks!)
+- Fixed watchdog crash when claims take too long to load
+- Extended tooltips should now be off
+- Mutant skeleton hat now can get corruption infusion
+- Mythic Rotation got a couple new challengers, Obsidilith and Gauntlet are on vacation now!
+- The Explorers Compass can now track other structures of the same kind once youve visited one
+- Mutant Skeleton Helmet(Skull) now actually has the values it should
+- Removed the Venus Bullet Quest as it didn't work properly sometimes
+- Removed some Enchants that weren't obtainable from EMI
+- Following Industrial Revolution items have been made uncraftable:
+  - Mining Drills (the machine is untouched, use hammers or the Terrashatterer)
+  - Electric Furnace (Use the Tech Reborn version)
+  - Fisher(use the Tech Reborn version)
+  - Lazuli Flux Container (use Ender Cells or batteries)
+  - Pulverizer (use the Grinder from Tech Reborn)
+  - Compressor (Use the Tech Reborn Version)
+  - Farmer (Use the Greenhouse Controller from Tech Reborn)
+  - Pump (Use a Hose Pulley from Create)
+
+## Mods
+- Added 9 Mods, 2 Resourcepacks, 1 Shaderpack
+- Updated 38 Mods
+- Removed Fasten (Glitched textures)
