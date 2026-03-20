@@ -1,0 +1,22 @@
+# Prominence II: Hasturian Era v3.9.23 
+**v3.9.24 - Calm before the Storm - Part II**
+
+This update will be a little smaller as **next week** will be the **create update**!!  You know what this means!! **Computercraft will leave with next update** The mod isn't maintained on Curseforge and there are a couple of exploits with it that are potentially very detrimental, main reason is the incompatibility with Create though. *This took actual Witchcraft to get to work in the first place.*
+Be sure to see more Create content in the future, most likely mixed in with other updates.
+
+## Changes
+- Possibly fixed Travelers backpacks causing a ton of FPS drops when a Ender Lead is inserted into them
+- Fixed Sortilege config breaking Xp gains and removed free anvil enchanting
+- Removed Storyteller curse because it wasn't supposed to exist, oops
+- Made Experience pouches uncraftable, don't worry, you can still use them
+- Removed Bore lens properly
+- Fixed all of the Limestone Recipes
+- Guns should now have reforges as they initially should have had
+- Adjusted the quest for Limestone etc in the reforging tab for these temporary changes
+- Boss bar should be fancy again
+- Removed a bunch of useless MC Dungeons weapons that noone used as they looked ugly or were just misleading
+- Fixed a exploit where the Enchanted basin would be able to be used to dupe XP (thank you clybb)
+- Did a small preparation for next week's update
+
+## Mods
+- Updated Alms Recipe Additions, Legendary Tooltips x Traveler's Backpack Fix
