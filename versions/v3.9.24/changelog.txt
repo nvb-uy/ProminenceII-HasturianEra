@@ -1,4 +1,4 @@
-# Prominence II: Hasturian Era v3.9.23 
+# Prominence II: Hasturian Era v3.9.24 
 **v3.9.24 - Calm before the Storm - Part II**
 
 This update will be a little smaller as **next week** will be the **create update**!!  You know what this means!! **Computercraft will leave with next update** The mod isn't maintained on Curseforge and there are a couple of exploits with it that are potentially very detrimental, main reason is the incompatibility with Create though. *This took actual Witchcraft to get to work in the first place.*

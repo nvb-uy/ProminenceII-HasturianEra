@@ -1,0 +1,27 @@
+# Prominence II: Hasturian Era v3.9.25 
+**v3.9.25 - Create Update** - Only X updates left to v4.0!
+The long awaited Create update! **This update also removes Computercraft!!! There will be no replacement for it, before you update, please save all of your Programs and such somewhere else if you want to use them in another pack etc!!!**
+What does this update bring?
+
+## Changes
+**Everything Create 6.0 brings and all of its addons.** It is a long list but here is the most important stuff:
+- Whole new logistics system added - no more Toms that lags the entire server!
+- Packages! Pack items into a Package and carry them around, kinda like a Shulker that wont shoot you! Place them down to be the ultimate hoarder!
+- Packager can pack items in to Packages
+- Stock Keeper - Store basically anything without needing AE2, even though it is still the superior storage mod
+- Tablecloths - you may think this sounds stupid, but these are not only great for decoration, you can actually make shops with a Stock keeper Villager!
+- Factory Gauges - They show you how much of an item you have and you can use them to request a certain amount of items!
+- Chain Conveyors - Basically the new item pipes! They are similar to rails. They can transport rotational power, but mainly items! *You can even use them to ride along them(Satisfactory reference???)*
+- A bunch of new redstone such as the pulse timer and the desk bell
+- Cardboard, yummy! You can finally be the shining knight in cardboard armor! Not sure if there is anything planned with this.
+- New Decorative blocks!
+- Allow moss carpets and snow to encase tracks, Snow falls on tracks
+- Diamond Grit sandpaper is now craftable 
+- Finding the Gauntlet Quest no longer mentions going to the end(thank you for the first person to read that quest)
+- Reenabled Pride of the Piglins
+- Tons of technical fixes and bugfixes!
+
+## Mods
+- Added Create Estrogen, Cynosure, Create better FPS
+- Removed CC: Tweaked, Geckolib compat (No longer needed), Iris flywheel compat (No longer needed)
+- Updated Azurelib, Copycats, Create, Create New Age, Create Addition, Deeperdarker, Estrogen, Openpartiesandclaims, Railways
