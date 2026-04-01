@@ -1,0 +1,12 @@
+# Prominence II: Hasturian Era v3.9.26
+**v3.9.26 - DLSS5 Support + New Mythic Balancing**
+This update revolutionizes Minecraft Modpacks by adding DLSS 5 support. Using AI-Powered Machine Learning Hyper-Resolution Scaling in Real Time:tm:, you can now enjoy advanced graphics in your Prominence II experience.
+
+But not just that! We've also added a brand new mythic boss rotation that was carefully picked to be the most comprehensive and balanced experience you can have with these challenges.
+
+*For legal reasons we are not associated with NVIDIA whatsoever.*
+
+## Changes
+- Added DLSS5 Support (See: https://www.youtube.com/watch?v=bwo6iFF-vXQ)
+- Added new mythic boss rotation that was carefully planned for 17 weeks, with cutting edge balancing techniques to make these challenges the best experience you'll ever have in Modded Minecraft.
+- Fixed menu being big chad something ???
