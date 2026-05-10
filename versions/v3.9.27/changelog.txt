@@ -1,0 +1,37 @@
+# Prominence II: Hasturian Era v3.9.27
+**v3.9.27 - FPS Improvements, Fixes & QoL**
+This update brings the modpack as stable as possible previous to the v4.0 release. It features performance fixes, along with important bug fixes and QoL changes.
+
+Note that Bewitchment is leaving Soon! More info next patch!
+
+## Changes
+- Made Netherite Crusader have 8 slots for enchanting
+- Fixed Knowledge of the Ages not working
+- Added compatibility with FTB Quests and EMI
+- Added EMI Compat with Ad Astra and Chipped
+- Improved how Create works with shaders
+- Hopefully increased performance with a lot of Create contraptions and such
+- New Endermen! These can be found in various areas of the world, some being hostile from the get-go! 
+- Experience is now partially kept on death! This system will get a small redo next patch
+- Removed those pesky egg plants in the Nether(The ones that poison you, you know which ones)(applied for a Nobel Peace Prize for this!)
+- Re-enabled Pride of the Piglins for real now
+- Souldancer Armor now has 10x the Durability!
+- Crash Assistant no longer gives false info when crashing(Hope you wont)
+- Mutant Creepers no longer blow up in claims and destroy blocks
+- All Minecraft Dungeons items no longer give you their life's story
+- Sharing some items in chat no longer kicks you
+- Connecting some Cables to Ad Astra's Machines no longer Chunkbans everyone involved
+- Explorers Compass got some slight adjustments
+- Fixed rare Amecs crash 
+- Fixed infinite snorkel duration for the snorkel
+- Bewitchment toad can no longer spawn
+- Fixed 2 Recipes with ae2, create and powah
+- Removed stasis from the loot pool
+- Added Ochre Froglight Recipe for the 3 Froglight users, unsure if the swampier swamps ones will ever follow
+- Added a Diorite Recipe for a Patron with bonemeal
+- Changed the Mythic upgrades Crystals to Crystal shards in the cutting table
+
+## Mods 
+- Added Colorwheel, Colorwheel Patcher, Shut up MCD, SMWYG fix, Mutant Creepers no Explody, Ad Astra Cable fix, Zenith Renewed, Zenith Attributes Renewed, FTB X EMI Compat, EMI-Compat
+- Updated Alm's Recipe Additions, MCDA - Lightning Unlimited, Amecs, Artifacts, Chat Heads, Crash Assistant, Cupboard, Cynosure, Entity Culling, Explorers Compass, Integrated API, Integrated Villages, Mousetweaks x Accessories Fix, Nature's Compass, Only Excavators
+- Removed Explorers Compass Addon (Obsolete), Zenith (Replaced), Zenith Attributes (Replaced)
