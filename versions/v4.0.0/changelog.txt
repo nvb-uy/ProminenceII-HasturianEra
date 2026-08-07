@@ -1,0 +1,35 @@
+# Prominence II: Hasturian Era v4.0.0
+**v4.0.0 - The Kingdom of Vaaz**
+
+"After a long wait, you shall now meet the Kingdom of Vaaz by yourself." - S'kellak, Creator of All Things
+
+This update is the biggest update for Prominence II as of now, featuring changes that, we proudly can say, are nowhere to be seen in other modpacks. From a Capital City filled with NPCs that you can interact, trade, buy and sell with, to a voice acted dialogue system, fully new timed Myhic Challenges with tiered affixes, lots of new rewards, and A LOT more.
+
+And the best part yet? This is just the beginning of a new era of Prominence.
+
+Please backup your old worlds just in case. **IMPORTANT: IF YOU USED NETHER CHESTED CHESTS, REMOVE YOUR ITEMS OFF THEM BEFORE UPDATING**
+
+I want to thank each one of you for waiting on this update, it's been tough to develop, but the wait was worth it.
+
+## Important Changes
+- **Vaaz, the first Capital City.** Travel to the Kingdom of Vaaz at any point of the game. A capital city full of NPCs with various utilities to go from time to time, or just to rest after a long adventure. Watch it evolve across your gameplay, with new interactions and even structural changes happening through your campaign progression.
+- **New Class: The Monk.** A new class, modified upon the Forcemaster mod by Fitchee, features soul-based skill books focused on monk gameplay.
+- **The Primordial Forge.** A new forge used to create powerful endgame sets called Primordial Armors with unique set-based passives, with up to **136** passive combinations.
+- **Significant Performance Upgrades.** From lower RAM usage, memory leak fixes, and higher FPS!
+- **Tutorial for new players.** Upon joining a world, you will be greeted with a tutorial that teaches the basics and introduces you to S'kellak.
+- **The Hasturian Era.** New Hasturian Era campaign content; 2 new chapters with new custom bosses, quests, world events, the Primordial Forge, and more!
+- **Mythic Challenges Reworked.** Meet the completely overhauled Mythic Challenges, now timed, with instanced arenas, 22 randomized and tiered affixes, and more!
+- **Combat Improvements.** Combat has been improved with new mechanics for it to feel more dynamic without losing its arcade touch. From punching using Better Combat, to a momentum gain when attacking.
+- **Voice Acted Dialogues.** Get ready to hear S'kellak, Gu'mas, Dwarves and other character dialogues from quests and more! *Only available in English at the moment. Subtitles can be translated*
+- **Revamped Campaign.** Revamped quests from Void's Invasion to now interact with Vaaz. Get ready to talk with S'kellak directly instead of just reading what happened out of the questbook!
+- **Live Content.** Expect changing content, even without updating! Coming in the near future with things like weekly quests, weekly mythic boss rotations, seasonal events, and more.
+- **Menu Overhaul.** Enjoy a completely new settings menu that seamlessly integrates with mods and our own custom content to easily configurate things.
+- **Quests Overhaul.** Overhauled FTB Quests with integration of the new custom questing system, new UI with custom icons and backgrounds, a new look at the quest book, and more!
+- **Reworked Soulbound Mechanic.** Other players will no longer be able to pick up your soulbound items, even avoiding them from chests! And they will no longer damage the player, instead they'll be returned to their owner, or inside their ender chest if offline.
+- **Removal of Rune Requirements.** Abilities will no longer require runes to be casted, as it was seen as an unnecessary grind that specially confused beginners.
+- **New Stat: Magic Resistance**. A new stat which can be found on some armor pieces, which reduces magic damage received.
+- **Built-In Abilities on Weapons.** Many weapons now have built-in abilities that vary on weapon type.
+- **New Menus.** The main menu and other menus from the modpack have been completely overhauled with a handcrafted design to fit the modpack's style.
+- **Talent Tree Additions.** New passive talents, reworked nodes and more!
+- **Music!** Enjoy brand new vibes with in-game music, including bossfights and events!
+- **and a lot more.**
