@@ -11,6 +11,8 @@ Please backup your old worlds just in case. **IMPORTANT: IF YOU USED NETHER CHES
 
 I want to thank each one of you for waiting on this update, it's been tough to develop, but the wait was worth it.
 
+[Read this document for an in-depth look at the changes and what you need to know](https://docs.google.com/document/d/1LR65V_U_pYoDsJcSkrSpcrOmq6xYkRWVOARPjV0Vi6Q)
+
 ## Important Changes
 - **Vaaz, the first Capital City.** Travel to the Kingdom of Vaaz at any point of the game. A capital city full of NPCs with various utilities to go from time to time, or just to rest after a long adventure. Watch it evolve across your gameplay, with new interactions and even structural changes happening through your campaign progression.
 - **New Class: The Monk.** A new class, modified upon the Forcemaster mod by Fitchee, features soul-based skill books focused on monk gameplay.
