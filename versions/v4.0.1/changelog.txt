@@ -1,0 +1,52 @@
+# Prominence II: Hasturian Era
+**v4.0.1 - The Kingdom of Vaaz**
+
+An overall hefty patch fixing lots of bugs found on v4.0.0, along with QoL changes.
+
+## Important changes
+- Fixed various NPCs not having trades in Vaaz.
+- Mythic bosses have been **extremely nerfed** to make them easier for non-minmaxed players.
+- Simply Swords now uses Spell Engine spells, making them now work with spellbooks.
+- Fixed "tripped and fell" death on mythic challenges
+- Fixed progression issues in the campaign, mainly happening on multiplayer
+- Added tooltips to many items that are usually not understood by players
+
+## Bug Fixes
+- Fixed custom quest progress being wiped when dying, which could brick the tutorial and other custom quests 
+- Fixed the wait for Mirgaff during "The Secret Ingredient" restarting if you left to the Overworld or relogged, the timer now keeps counting wherever you are
+- Players that got locked out of the tutorial by the above bug can now run it again
+- Fixed the Gu'mas encounter losing track of the arena and boss if you died to him
+- Fixed the Flameborn's Stone forgetting your return position if you died in Vaaz, dumping you at world spawn instead
+- Fixed Mythic Challenges being accessible by non hasturian era players
+- Fixed fake level up messages spamming when killing mobs while at a campaign level limit, you now get a message explaining why you aren't gaining XP instead
+- Fixed being unable to walk backwards while attacking even with Feet Control
+- Fixed the Flameborn's Call spell icon showing an outdated version of the stone instead of its current look
+- Fixed dupe using carryon
+- Fixed bard fate giving the old bard passive still
+- Fixed the corruption tooltip in inventory saying the eyes spawn in combat, after 999 years
+
+## Quest Changes
+- "A Worrying Reunion" and "S'kellak's Reward" now trigger when using the Flameborn's Stone from any dimension, not just the Overworld
+- The return objective of "A Worrying Reunion" now completes wherever you came back from instead of hanging if you didn't come from the Overworld
+- Fixed boss quests using advancements instead of kill tasks which made quests not complete for party members
+
+## Performance Changes
+- Heavily optimized server ticking by patching some mods
+
+## Other Changes
+- Forge Guard recipe in the primordial forge now requires a Blazing Magister armor piece instead of Gleaming Magister.
+- Talent XP from Warden now gives heavily reduced XP so it can't be farmed for easy levels
+- Players teleporting into a Vaaz era they shouldn't be in yet are now sent back to the era they belong in
+- Derelict's spiders and the cultists now only spawn around players during Hasturian Era
+- New community translation packs now enable themselves automatically if you already have that language's translation folder enabled in the resource packs menu
+- The XP bar in the Talent Tree menu got a fresh look, level displayed is now the player level, the bar now shows your actual level progress, and the tooltip now tells you your talent points and when the next one is obtained. While at a campaign level limit the indicator turns red so it's clear why you aren't leveling (plus a message sent in the chat to remiind players)
+- Artifact tree screens got a matching cleanup: headers now say "Artifact Upgrades" and "Artifact Upgrade Points left", and the bar tooltip shows your Artifact Level (out of 7) and the Artifact Power needed for the next upgrade. The points counter on talent and artifact screens is now yellow and the menu titles pop more with an outline
+- The developer badge now shows before the name instead of after it in chat
+- Simply Swords unique weapon abilities are now real spells! Right click triggers them exactly like before (hold abilities charge like spells now), they show up in the spell hotbar with the weapon as the spell icon and a proper cooldown display, and your spellbook spells stay usable on the number keys while holding these weapons
+- Disabled Levitation Shot & Spell Infinity,
+- Lowered emberstorm's max haste from 11 to 5,
+- Blacklisted both gu'mas and the alloy forge controllers from carry on
+- Added special gift to those that had an illegal transmog ;)
+
+## Mods
+- Updated Prominent, Bard (RPG Series Plus), Alm's Recipe Additions, Spell enchants for armor, Smart Tooltip Scroll, Essential, Create: Tesosterone, Cable Fixes for Prom, FTB X Emi Compat, Euphoria Patches
