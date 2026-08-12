@@ -10,6 +10,7 @@ An overall hefty patch fixing lots of bugs found on v4.0.0, along with QoL chang
 - Fixed "tripped and fell" death on mythic challenges
 - Fixed progression issues in the campaign, mainly happening on multiplayer
 - Added tooltips to many items that are usually not understood by players
+- Your keybinds will be reset!
 
 ## Bug Fixes
 - Fixed custom quest progress being wiped when dying, which could brick the tutorial and other custom quests 
