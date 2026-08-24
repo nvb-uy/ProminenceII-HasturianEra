@@ -1,0 +1,61 @@
+# Prominence II: Hasturian Era
+**v4.0.2 - Various fixes and brand new Supernova**
+
+This update introduces various fixes, including fixes for mythic bosses scaling.
+
+It also introduces **numerous more trades** for early to mid game, and includes a trade for the Unholy Hourglass.
+
+All FTB Teams will be disbanded because of bugs caused by being on a team that break progression! Don't worry though, you won't lose any quest progress.
+Please use open parties and claims.
+
+**YOUR OPTIONS WILL BE RESET!**
+
+## Artifacts
+- Added brand new Supernova model
+
+## Vaaz NPC Vendors
+- Added molten remnants trades for S'kellak
+- Fixed many trades missing objects
+
+## Mythic Challenges
+- Mythic 16+ can now be done without a team of 5 people, but it will scale the same way as a 5 player team.
+- Fixed Arachne's health scaling being broken
+- Nerfed gu'mas' health to be singificantly lower
+- Slightly nerfed Ama'gul's hp to be lower
+- Affix adds (cultists, aberrations, withers, chupacabras) now spawn with 25% of the health they used to
+- Affix adds no longer stack infinitely
+- Spiderlings, smaller golems and other spawns from bosses no longer stay after the challenge ends
+
+## Bosses
+- Ama'gul now sends a message when hitting a clone, making it more accessible to people with no audio
+
+## Accessibility Features
+- Added Arachnophobia mode for Arachne(turns into a robot)
+
+## Other Changes
+- Added more Compatibility to Ashen with mods such as Builders Wands, the Alloy Forge and Oxidized
+- Fixed a Critical memory leak with Copycats
+- Failing a Mythic Challenge now rerolls the boss on your returned hourglass, same as winning, and neither can land on the boss you just fought
+- Tripping and falling inside a Mythic Challenge no longer kills you outright, it now counts as a challenge death
+- The Questbook should overall be less prone to greyed out quests
+- Fixed some compat with the drills from Modern Industrialization still giving disabled ores from other mods
+- Titanium drillalso now gives uraninite
+- Steel drill now gives silver ore 
+- Added missing Tags to Garlic and Water artichoke from Enchanted:Witchcraft
+- Added Tags to the Chili Pepper so it's compatible with the Chile Pepper
+- Removed % Hp Scaling on the Darkin Scythe
+- Lowered Invading Forlorn Spawn
+- Removed Dragons Breath Trim due to bugs
+- Fixed the Stabby Stab and Meteorite Compass quest in the Applied Energistics Questline
+- Made a few more quests properly optional
+- Fixed Arachne having twice the stats
+- Fixed Pain Cycle 3 being obtainable from villagers but not being able to be applied
+- Completely removed Spell infinity from trading and the enchanting level as it is no longer needed for casting spells
+- Fixed some trades as they were too late or too early, such as a few Simply swords, Armor pieces
+- Added Houglass Trade to Alm, so players can buy a new one to level
+- Fixed some smaller Crashes and issues
+
+## Mods
+- Updated Prominent, Alms Recipe Additons, Emi- Compat, SMWYG-Fix, Copycats, Naturalist, Bards, More RPG Library, Create: Testosterone, Smart Tooltip Scroll, S-Lib
+- Added Mods: Mutandis Tweaks, Quests and Teams Fixes
+- Added Resourcepacks: Ashen Friends&Foes Support, Ashen Build Wands Support, Derelict Arachnofobia Mode, Ashen Alloy Forgery Support, Ashen Oxidized Support, Amne's Kibe Utilities Spanish Translations, Amne's Zenith Renewed Spanish Translations
