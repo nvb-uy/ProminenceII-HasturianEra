@@ -1,0 +1,27 @@
+# Prominence II: Hasturian Era
+**v4.0.3 - Various fixes once again and Wizard rework**
+
+This update removes Frostiful again and makes Wizard Progression more linear. Open Parties and Claims now also has a UI to make allying and making parties easier.
+
+## New Party UI!
+- Press "P" to open the Opac UI and invite friends and allies there.
+
+## Changes
+- Added more Compatibility to Ashen with mods such as JustHammers and Better Nether Items
+- Removed Frostiful, it was added due to a mistake, sorry
+- All Spell school Robes can now be crafted out of the Wizard Robes, making progression more linear
+- Wands can now be made with the Wizard Staff and continuously upgraded, so you can keep your Staff and make it into Ekavar
+- Added the Ability to manage who can use Waystones in claims, now being able to set to noone, allies, everyone and Party
+- Removed an obsolete armor from the combat and Gear Questline
+- Made the Kill the Ender Dragon quest in the Main Questline also give the Advancement in case the player somehow didn't get it
+- Belt now takes Lanterns again
+- Parties quest in the Getting started Questline now Mentions being able to use P to open the Party interface
+- Fixed Dark Armor still being shown as needed for the Warrior Tier 3 Questline
+- Made the Simply Swords Questline Progress-able without having to smelt in at least one Simply Sword
+- Various small tweaks in the Questbook not worth mentioning
+  
+## Mods
+- Added Mods: Opac UI
+- Removed Mods: Frostiful
+- Updated Mods: S-Lib, Smart Tooltip Scroll, Custom Tooltip API, Alm's Recipe Additions
+- Added Resourcepacks: Ashen JustHammers Support, Ashen BetterNether Items Support
