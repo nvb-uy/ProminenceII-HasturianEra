@@ -1,0 +1,20 @@
+# Prominence II: Hasturian Era
+**v4.0.4 - Update found?
+
+This update updates some mods and Reworks the Minecells Questline! Next update will most likely revolve around Souls.
+
+## Changes
+- Sparks from botania can now be dyed
+- New crash assistant website it uploads to, hope you won't see it
+- Added a Temporary mod to Prominence that makes Simply Swords work with OPAC instead of /team(this mod will be removed once Simplyswords is updated as it will no longer be needed)
+- Added a new Rubber Recipe to the Modern Industrialization Centrifuge as suggested on our Discord
+- You should now see burn times for fuel in the Blaze burner and many more things to improve your Tech Journey
+- Completely Overhauled the Minecells Questline to properly explain where to go and reflect how Minecells looks now
+- Removed a few obsolete Quests as the items or mobs were either disabled or not used anymore
+- Disabled the Wabbajack for now, sorry
+- Fixed smaller issues with Tierify giving the wrong cost or no cost at all
+- Various fixes of crashes and such
+
+## Mods
+- Updated Alms Recipe Additions, AmbientSounds, Amendments, Bobby, BetterAdvancements, Botania, Backpack Melodies, BuildGuide, Chat heads, Chatanimation, Collective, Common-networking, CrashAssistant, CreativeCore, Cupboard, Entity culling, Forcemaster, ForgeConfigAPIPort, Geophilic, Icarus, integrated Api, IrisSearch, Jade, More Armor Trims, MoogsStructureLib, MoogsVoyagerStructures, Mutant Skeleton Armor Tweaks, Newblahaj, Packetfixer, Quests Teams Fixes, Recipeessentials, s-lib, smwyg-fix, Steam Rails, Travelers backpack
+- Added Jade Addons (Fabric), Simplyswords opac fix
