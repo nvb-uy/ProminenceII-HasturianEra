@@ -1,0 +1,27 @@
+# Prominence II: Hasturian Era
+**v4.0.5 - Defensive Enchants Rebalance and Advancements fix**
+
+This update fixes Advancements in multiplayer only being given to some players and not all of them. Players will be able to stack multiple defensive enchants(Battle Rouse, Warding, Spellbreaking and so forth) on top of their Protection. This means sacrificing another Enchanting slot for many hybrid classes, but more survivability overall. Most of these Enchantments have been lowered to be balanced. We are working on a larger update, so stay tuned for that!
+
+## Changes
+
+- The following Enchantments have been lowered and made non-exclusive with Protection and its brothers: Warding(Excluded from the nerf), Battle Rouse, Spellbreaking, Evasion, Defiance, Evasion, Suppression
+- These Enchants can now be found, traded for and added to already existing armor without issues
+- Moved Protection from Common to Rare so it is easier found in higher Arcana Enchanting Tables
+- Reason as to this change is so that it appears more often in mid-late game Enchanting Table setups
+- Lowered Rarities of a few less significant Enchants to replace Protection's spot like Spellbreaking and Suppression
+- Disabled the Bleed mechanic from Soulsweapons entirely as it has unintended effects, this may be changed in the future
+- Added more Custom Tooltips for Lord souls and Black Ocelot Pelt and more
+- Added a mod to fix GLFW sometimes not working for some users
+- Fixed Advancements not being given to all players that killed the boss
+- Fixed NPCs in Vaaz not wanting to talk to you because of missing Advancements
+- Fixed a crash for some players with the Advancement Tab
+- Fixed a few formatting issues in the Minecells Tab
+- Fixed Mutant Skeleton Armor buffs being accidentally enabled
+- Hammers should no longer break inside claims the player doesn't own
+
+  
+## Mods
+- Added Mods: Unrestricted Enchanting, GLFW X11 Fix
+- Updated Mods: Opac Fixes, Mutant Skeleton Armor Tweaks
+- Downgraded Mods: Better Advancements
