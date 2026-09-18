@@ -1,0 +1,42 @@
+# Prominence II: Hasturian Era
+**v4.1.0 - Simply Swords and Bows Update**
+
+This is the awaited Simply Swords update! It fully reworks many Simply Swords and adds a couple of new ones. Your build may need to be adjusted as this update will most likely make every build guide obsolete. There is now a handful of Simply Bows, which have their own unique abilities, which all can be used with your Archery books! 
+
+## Changes
+- Simply Swords Questline has expanded to accommodate the new Simply Bows and Simply Swords with new looks!
+- New hidden Simply Swords variants can be made in specific locations, secret!
+- Arachne(at 50%) and Gu mas(at 70%) now have a chance to drop Simply swords and Bows
+- Disarmed effect now bypasses specific blocks for Obsidilith and Void blossom
+- Fixed winning a challenge immediately after a player enters the arena while riding an entity
+- Fixed hourglass tick lag when you summon a portal
+- Fixed shaders in Assault Vaaz
+- Fixed Mounts being cleared when you win a Hourglass Challenge
+- Fixed Primordial Bard and Paladin Recipes not working
+- Fixed Damage Tilt not being modified in the Options
+- Fixed Tripped and fell happening randomly - it should now only happen in Challenge Dimensions
+- Fixed Defiance not being ablt to be discovered or lootable
+- Fixed Builders Wands being too expensive
+- Fixed Mythic Mounts adding a black screen when opening the inventory(credit goes to Bagel for improving everyones life)
+- Mythic Mounts, Horses of any kind now work with any Rider passive such as from Death Knights and Archers (Unholy buff in this economy?)
+- Made allies being able to enter the same Hourglass (max players are always 5)
+- Changed Awakened Lichblade to Slumbering Lichblade in Frostmourne recipe as it is no longer an independent item
+- MI Steel Drill now gives Salt
+- Salt dust has been generally unified to be better useful and be used in all recipes that need Salt
+- Added Recipes that make Motors for MI Pipes easier to make and better to scale
+- Added a Pity Quest that unlocks after crafting 128 Mutandis for a Rowan Sapling
+- Added Deathstrider mount spell from Archon which summons a Mount
+- Added a couple more Trades
+- Made the Eye Trading Quest bigger and more noticeable
+- A couple of Structures have been added and slightly reworked, every Mega Ship in the End now has a proper crew
+- Essential should no longer show "Update Available" when Essential needs an Update, please leave this to the Modpack Team
+- Removed the Fire Wand Quest as the Wand is no longer obtainable
+- Removed Warp spell
+- Removed another round of old, bloat Mods
+- And lots of fixes!
+
+
+## Mods
+- Added Simply Tooltips, Simply Bows, GLFW X11 Fix(Forgot to add it in the previous one)
+- Updated Simply Swords, Custom Tooltip API, Integrated API, Iris search, Quests and Teams fixes, s-lin, Skinlayers 3d, MVS - Moog's Voyager Structures, MES - Moog's End Structures, Simply Swords Tweaks, Alms Recipe Additions, Create: Copycats, Prominent, Simply Swords Reforged, Enhanced Boss Bars
+- Removed  Friends&Foes Beekeeper Addon, BlockRunner, Friends&Foes Flowery Mooblooms, Rare Ice, Simply Swords Opac bridge(No longer needed), Simply Fixes, More Axolotl Variants Mod, More Axolotl Variants API, Axolotl item Fix
