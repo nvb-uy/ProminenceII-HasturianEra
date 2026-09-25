@@ -1,0 +1,68 @@
+# Prominence II: Hasturian Era
+**v4.1.1 - The great Rebalance Part 1**
+
+This Update Fixes a couple of issues that have come with the latest Simply Swords update. Many weapons that have been a bit too strong are also nerfed while we are at it. Classic game devs smh... 
+Items like Gh'aj were way too weak and as we all know, nerf Archer. So that is exactly what we did. Many more weapons have been made more viable, to encourage build variety. Just because your current build isnt mentioned here, doesn't mean it will never be adjusted or buffed/nerfed. There is many more planned changes. Changes are loosely grouped for each class.
+
+We are also aware the the Wither currently does not drop Simplyswords and are working on a fix.
+## Changes
+
+### Fixes
+- Temporarily using the Essential zoom(not as cool we know) until Zoomify is fixed
+- Fixed OPAC UI related crash
+- Simply Swords such as Sunfire can now use their Abilities again - you may need to rebind the ability button if you are still experiencing issues
+- Simply Swords such as Harbinger and Lichblade now show their proper cool textures again
+- Fixed Simply Bows working in claims even though they shouldn't
+- Fixed Crash with Simply Skills
+- Fixed an issue with Runes from Simply Swords
+- Armor Stands are no longer breakable in Vaaz
+- Wrenches no longer work in Vaaz
+- Chorus fruit can no longer be consumed in Vaaz
+- Fixed a death loop due to dying from max corruption in present and past Vaaz
+  
+### Additions
+- Added Advanced Netherite crafting varians to blast furnace and Alloy Forge
+- Added better recipes for MI barrels
+- Made Advanced Netherite salvageable
+- Added some more ore blocks to the Alloy Forge
+- New Soulbound system:
+  This replaces the old "edit an offline player's dat file if offline" approach
+  Triggers if any soulbound item gets either stolen from you or you dont have enough space in inventory when receiving it
+
+### Balance Changes
+- Lowered Watcher Spell Scaling from 1.25 to 0.7
+- Lowered Watcher Damage Scaling from 0.85 to 0.6
+- The Watcher no longer executes everything under 25% hp, as a matter of fact it will never execute again
+- Removed additional Holy Spell power from Watcher as it was not supposed to have it anymore, lol
+- Made Bloodwake scale with Blood, did the same for a few other weapons such as Caelestis now scaling with Arcane
+- Keep in mind that most Summons scale with healing and Soul
+- Lowered Enigma Fling Upward Strength from 0.55 to 0.3, this will make mobs fly less high
+- Lowered both Battle Standards to what they were supposed to have
+- Lowered Winterfangs Shots count, arrow speed, homing radius, base damage, homing acceleration, bounty rune damage multiplier and extra arrow multiplier
+- Simply Bows now can only have 3 Upgrades and only 2 of each
+- Lowered Sindorei Heritage Draw speed bonus from +100% to +50%
+- Lowered Strike Spell Scaling of Soulstalker
+- Gh'aj now gives Haste and Artifact damage per node, alternating between higher artifact dmg and higher haste, middle node now gives additional 10% haste
+- Supernova now gives +5% Spell haste instead of 12% Haste as it was used only for the haste by rogues
+- Lowered Shadowsting Damage modifier from 1.0 to 0.66
+- Lowered Shadowsting attack speed by 0.3
+- Lowered Shadowsting onhit chance from 40 to 20
+- Lowered Spell scaling from 2.5 to 1.75
+- Increase Cooldown of the Ability from 200 to 225
+- Lowered duration from 100 to 75
+- Emberlash now can have twice the stacks
+- Lightning weapons like Ionbound Stormscale and Mjolnir are now more viable for Valkyries and no longer scale with Physical
+- Thunderbrand now scales better for both Valkyrie and Warrior
+- Stormlash Rune now better scales with lightning, perfect for lightning builds
+- Runic Slash Rune has been lowered to scale far less with Physical Damage and Arcane
+- Dancing Blades Rune now goes up to 20, but the individual blades deal less damage
+- Evocation Rune is now Unholy and scales better with it, great for mob farms 
+- Lichblade now temporarily only scales with unholy spell power, this will be changed later
+- Magiscythe now scales better and repairs duration more
+- Magispear and Magiblade now dont scale with physical damage and scale better with Arcane
+- Lordsword of plagues now spreads to more enemies and scales better off unholy
+
+Added SimplyBows OPAC Bridge, SimplyCompat 
+Updated Alms Recipe Additions, Simplyswords All the Smites, Simplyswords all the festering Strike, Simplyswords all the Death Strike, Loot Integrations: Moog's Voyager, Botania, Opac UI, OnlyExcavators, SimplySwords Reforged, Zoomify
+
+Special thanks go to Jrum, Onion and Rasp from the Discord for giving feedback! Without people like you we wouldn't have updates this big!
