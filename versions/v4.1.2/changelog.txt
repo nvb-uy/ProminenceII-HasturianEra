@@ -1,0 +1,26 @@
+# Prominence II: Hasturian Era
+**v4.1.2 - Fixes and Fixes part 2531**
+
+This is a smaller update, fixing a couple of issues.
+
+We have decided that we are removing both Bumblezone and Deeper and Darker! This removal will happen in about 3-4 Updates! More info on when exactly and what to do will follow the coming weeks.
+This is part of our debloating of Prominence as both dimensions don't serve a direct purpose. Honey items will be added to Vaaz trades in the same update as these mods are being removed.
+This means any block from both of these mods, including their Dimension will be gone, once the mod is removed. Sorry to all the Bee fans and the singular Deep Dark fan, if you still exist!
+
+## Changes
+- Removed all Bosses from the Chungus tonic whitelist, so you cant skip bosses with it anymore
+- Nether gauntlet now deals less damage when you are overleveled and you play on hard - we know the boss is a player favorite and Alms most hated boss
+- Replaced Create:Testosterone with its official port
+
+## Additions
+- Added compatibility with Regions Unexplored and using an axe at the Cutting Board from Farmers Delight
+- Allowed Roid rage to work on the Elytra (you heard that right)
+- New Supplementaries Compat with soups into jars and such! More throwable bricks you can throw at your most hated Devs if you see them ingame
+  
+## Fixes
+- Fixed some Bosses having Arrows bounce off them so you could infinitely stack arrows on them
+- Fixed some players being unable to join servers via No Chat Reports
+- Removed Leftover bundles from loot tables - Bundles are disabled. Please use Backpacks instead
+  
+Added Regions unexplored Compat, Bundles no more, Arrows no Bouncy, No Chat Reports, Create:Testosterone(the official one), Supplementaries Compat
+Updated Testosterone Tweaks(previously was the unofficial one)
