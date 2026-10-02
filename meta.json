@@ -707,6 +707,17 @@
           }
       },
       "updateType": "minor"
+    },
+    {
+      "id": "v4.1.2",
+      "releasedAt": 1790940517376,
+      "promotions": {
+          "downloads": {
+              "modrinth": "https://modrinth.com/modpack/prominence-2-fabric/version/4.1.2",
+              "curseforge": "https://www.curseforge.com/minecraft/modpacks/prominence-2-hasturian-era/files/9027161"
+          }
+      },
+      "updateType": "minor"
     }
   ]
 }
