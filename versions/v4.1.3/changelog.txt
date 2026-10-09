@@ -1,0 +1,46 @@
+# Prominence II: Hasturian Era
+**v4.1.3 - Aquamirae Update and fixes**
+
+This update largely updates mods as it was a bit neglected. Aquamirae finally gets an update so you can experience it like you see in those Tiktok edits
+REMINDER ONCE MORE!!
+We have decided that we are removing both Bumblezone and Deeper and Darker! This removal will happen in about 2-3 Updates! More info on when exactly and what to do will follow the coming weeks.
+This is part of our debloating of Prominence as both dimensions don't serve a direct purpose. Honey items will be added to Vaaz trades in the same update as these mods are being removed.
+This means any block from both of these mods, including their Dimension will be gone, once the mod is removed. Sorry to all the Bee fans and the singular Deep Dark fan, if you still exist!
+
+We are currently aware of an issue causing mob spawn to be weird and are working on a fix. There is a temp fix in the Discord if you want to try it. It will most likely be fixed by next update.
+
+## Changes
+- New cooler EMI showcase for the Spell binding Table
+- Lowered Artifact Damage on Ghaj, to 2% on the haste focused node and 4% on the damage focused node
+- Lowered Emberlash Stacks to 6
+- Lowered Emberlash Spell scaling from 0.38 to 0.25
+- Added a Mod so Drekora can have a unified Hub
+
+## Additions
+- New Ice Maze Dimension coming with the Aquamirae Update! Check out the Explorers Journal for more info on how to get there and how to get back out
+- Massive Shipbreaker Event in the Ice maze!
+- Added more Quest info to the dimension and such
+- Mobs from the Ice maze take less damage from normal weapons
+- Cornelia may be a small bit harder, since armor and damage is less effective
+- To combat this, Depth’s Fury governs your damage to them, and Depth’s Resilience governs how hard they hit you and how much of your armor counts
+- Entire Biome looks cooler!
+  
+## Fixes
+- Remove the Bloat Armors from EMI that were added by Aquamirae
+- Fixed the Battlestandards being un-nerfed once again
+- Hopefully fixed a bug with Modrinth giving you the wrong FTB mods
+- Fixed a ton of issues from other mods, the game might run better now for most players in general
+  
+Thank you to the Modded MC Network team for the following fixes:
+- Block entity render skips drawing a block entity that has no world so a bad render does not crash the game
+- AzureLib items gives an animated item a missing id or skips the animation so the item does not crash
+- Waystones skips waystone tooltips when the waystone list is not ready yet
+- CIT Resewn skips a custom item texture when the item is missing
+- Botania floating flowers skips the floating island draw when the flower has no world
+- Iceberg and Legendary Tooltips skips the item model on a tooltip when the item is empty
+- Copycats uses a spare material when the saved material is missing so the block does not crash
+- Create contraptions skips a block entity that fails while a contraption is being drawn so the contraption still shows
+- Kibe block generators replaces a bad saved generator with a safe one before the block loads
+  
+Added Clientfixes, Fragmentum (needed for Aquamirae)
+Updated Ae2, Ambient Sounds, Aquamirae, Balm, Builders Wands, Chatanimations, Collective, Colorwheell, Connectivity, creativecore, Cupboard, Doubledoors, Dragonfight, EMI Compat, Entity Culling, Essential, Euphoria Patcher, Fabric API, Fzzy Config, Geckolib, Geophilic, Immediately Fast, Integrated API, Iris search, Item locks, Jamlib, Lootintegrations integrated, Memorysettings, Midnight lib, Moogs voyager structures, Moogs structures, Moonlight, More armor Trims, Skinlayers 3d, Unsafe world random access detector
