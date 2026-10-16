@@ -1,0 +1,32 @@
+# Prominence II: Hasturian Era
+**v4.1.4 - fixes and Removal final notice**
+
+This update largely removes man Aquamirae items since they don't fit the game, whilst also fixing the Testosterone issue with mob spawning. Next update will be much much bigger, bringing a Option to disable the fade in aswell.
+
+We have decided that we are removing both Bumblezone and Deeper and Darker! This removal will happen in **the next update**! More info on when exactly and what to do will follow the coming weeks.
+This is part of our debloating of Prominence as both dimensions don't serve a direct purpose. Honey items will be added to Vaaz trades in the same update as these mods are being removed.
+This means any block from both of these mods, including their Dimension will be gone, once the mod is removed. Sorry to all the Bee fans and the singular Deep Dark fan, if you still exist!
+
+Your options will reset!
+
+## Changes
+- Removed all Aquamira Food items, removed most weapons
+- Crossbows, Bows no longer give extra Ranged Damage when in the offhand
+- Removed Zoomify as it doesnt work due to Simplyswords and Prominence now uses the Essential zoom for now
+
+## Additions
+- Added Penguins and Barnacles
+- New cool Textures for Simply Bows!
+- Natures Compass looks more thematic and cleaner
+- Exchange trades in their respective FTB have been added for Warden Equipment, so you don't lose your foolish investment (Warden -> Netherite gear)
+- Added Spanish Translations for Travelers Backpacks, Naturalist, Vinery and Ad Astra
+
+## Fixes
+- Fixed hostile mob spawn
+- Fixed Derelict Spiders (jumping spiders and others) spawning in dark spots inside claims even when hostile mob spawning was turned off there
+- Fixed Items glowing when thrown
+ 
+Added Simply Bows Reforged, Artifact protection
+Updated Create: Testosterone, Ambient Sounds, Friends and Foes, Iris Search, Not Enough Animations, Opac Fixes, ProgressiveVelocity
+Reverted Fzzy Config to 0.7.0
+Removed Zoomify
