@@ -1,0 +1,108 @@
+# Prominence II: Hasturian Era
+**v4.1.5 - Halloween Event & Removal of Deeper and Darker and Bumblezone**
+
+This update unlocks the Halloween Questline that yields great rewards with a seasonal boss. This update also brings 19 new mods that have been in Prominent before, so not much of a change for the player. Tons of QoL and fixes. You can even now disable the fade in when switching dimension.
+Vaaz got a thematic look, there is a new Seasonal Mythic boss and so much more mentioned down below, like a Wizard rebalancing!
+
+This is it! Bumblezone and Deeper and Darker have been removed! 
+You don't need to do anything before updating, if you have already left the Dimension and have moved your items. It is impossible to retrieve them once you update. If you are still in the dimension you will be set into the overworld. In the worst case you die in the overworld, with your grave being there too. MAKE A BACKUP BEFORE UPDATING REGARDLESS!! We cannot assist you once you have updated and lost your items, so a Backup is essential.
+
+Your options will reset!
+
+## Changes
+- Changed Speed in Vaaz so now you can walk faster there
+- Xaeros and Opac was updated! This should not cause any issues, but you may need to check your options again incase one of your teammates no longer has access to specific parts of your base now.
+- Essential mod Analytics sharing is now disabled by default - you will get a pop up ingame asking you to agree or not, this is their decision
+- Options screen should be limited to 21/9 ratio (for people with ultrawides, weirdos)
+- Keepinventory now works in Assault Vaaz, so dying at the same time as the boss should no longer void your entire inventory
+- There is now another level cap before the Dragon so you cannot overlevel
+
+## Balancing
+Healing was a bit too strong for all classes and made Classes who depended on it not shine as bright. Bursting vitality has always been a bit too strong since it's fix
+- Lowered Battle Rouse from 3 to 2 as it largely made everyone a bit more Tanky that intended
+- Lowered Charm of Bursting Vitality to 1
+
+Mages have been lackluster in all aspects of the game. Hard to start with, not worth later on, compared to other classes. This is the first step towards fixing this. Wizards are some of the most played classes and deserve a lot more love.
+
+Mage Books Changes
+
+**Tome of Fire**
+- Fireball projectile velocity increased from 1.5 to 2.5 
+- Fireball spell scaling increased from 0.8 to 1 
+- Fire Breath spell scaling increased from 0.9 to 1.5
+- Fire Breath cooldown decreased from 10 to 8 seconds
+- Meteor scaling increased from 1 to 1.5 
+- Wall of Fire spell scaling increased from 0.8 to 1.0
+- Wall of Fire cooldown increased from 24 to 28 seconds
+
+**Tome of Arcane** 
+- Arcane Missiles projectiles velocity increased from 1.5 to 2.0
+- Arcane Missiles spell scaling increased from 0.5 to 0.75
+- Arcane Blast spell scaling increased from 0.9 to 1.5
+- Arcane Charge now gives 20% Arcane Power increase per stack instead of 15% 
+- Arcane Beam spell scaling increased from 1.0 to 3.0
+- Arcane Beam channel ticks increased from 4 to 8
+- Arcane Beam cooldown decreased from 10 to 8 seconds	
+- Blink cooldown decreased from 12 to 8 seconds
+
+**Tome of Frost**
+- Frostbolt projectile velocity increased from 1.5 to 2.5 
+- Frostbolt spell scaling increased from 0.8 to 1.6
+- Frost Nova cooldown decreased from 10 to 6
+- Frost Nova spell scaling increased from 0.5 to 1.5
+- Frost Shield cooldown decreased from 30 to 25 
+- Blizzard spell scaling increased from 0.7 to 2.0
+- Blizzard cooldown increased from 16 to 24
+
+**Primordial Armors Changes**
+Elder Pyromancer set passives:
+Inner Power (2):
+- stored damage increased from 5% to 20%
+- burn damage increased from 1% to 4%, during Fire Breath burn damage increased from 2% to 8%
+Combustion (4): 
+- cooldown decreased from 30 seconds to 20
+
+Elder Arcanist set passives:
+Arcane Barrage (4):
+- 20% magic penetration increased to 30% 
+- 30% spell critical damage increased to 40%
+
+Elder Cryomancer set passives:
+Chilling Winds (2):
+- Slow value increased from 50% to 60%
+Shatter Point (4):
+- Explosion damage spell scaling increased from 900% to 1500% 
+- Cooldown increased from 7 seconds to 15
+
+Bard's Lute spell Wanderer's Minuet: 
+- Spell critical chance: 20% - > 15%
+- Spell critical damage: 40% - > 30%
+- Spell Coefficient 3.0 -> 1.5
+  
+## Additions
+- The Halloween Questline is back!! Fight Sir Scarcrow and obtain cool loot! More info in the Questbook! Now with a new Lootbox!
+- Scary version of Vaaz!
+- New Trader: Beekeeper, selling Bee themed items
+- Finally added a toggle for screen fade in (3 modes, on, off, and first visit only)
+- Waystones now Automatically create new Waypoints
+- Death knight passive works with summons from Riftmane
+- Add skin customization options
+- New Level cap at Lvl 20 so people dont overlevel whilst looking for the eyes
+
+## Fixes
+- Fixed the Spanish version of the Ender Dragon Questline claiming it's a lvl 10 boss
+- Fixed Lamb Dynamic Lights not working on the player
+- Fixed player not being able to press s when attacking if feet control is unlocked
+- Made all special items (artifacts, armors, molten core/remnants, essences, etc) completely indestructible, they even get sent to relic recovery system if thrown to the void
+- Fixed corruption lottery
+- Fixed several options not working like vignette, animations, corruption vision not saving, etc
+- Fixed ConcurrentModificationException crash when gumas explodes and kills players
+- Fix ticking exception when teleporting mounts to overworld back from a mythic challenge
+- Fixed keep inventory not working in assault vaaz
+- Tons more fixes!
+
+"Special thanks to Jrum and Alterosa from our Discord for helping with Mages changes testing and to anyone who gave their feedback there!"
+
+Added Wizards Rebalanced, 
+Updated OpacUI, Opac, Xaeros Minimap, Xaeros Worldmap, Essential, Ambient Sounds, BetterEnd, BetterNether, Chat Animation, Custom Tooltip API, Smooth Chunkloading, Skinlayers 3d, Simplybows opac Bridge, Friends and Foes
+Removed Deeper and Darker, Bumblezone, Deeper and Darker PT-BR translation
