@@ -1,0 +1,30 @@
+# Prominence II: Hasturian Era
+**v4.1.6 - Wiki update + QoL**
+This update brings some Qol, the new mod Just enough Structures, Hammer rebalancing and some fixes.
+
+We are currently aware that the graveyard echo only drops when some mobs are killed via the large Shipbreaker worm and are changing that in the future. 
+We are currently aware of a bug that drops a 2nd version of any Soulbound item, we are working on a fix. You can pick these items up with a hopper.
+## Changes
+- Rebalance of the Hammer Skill Tree node - this now scales with different things!
+  Hammers now scale with the following things: Physical, Tank and Holy/Lightning
+  -> This means that the branch you have leveled into the most is the one it scales with.
+  Physical scales with Attack Damage, Tank with HP and attack damage, with a multiplier for when the player holds a shield
+  Holy/Lightning scales with the respective spell power and armor
+- Nerfed Anglerfish, Maw and removed Cornelias Depth feature
+- Nerfed Spawn rates of various Aquamirae mobs
+
+## Additions
+- New Structure EMI! This means you can browse structures ingame, see their chests(even the drop chances!!!!), mobs and much much more! This shouldn't impact performance, if at all, but may take longer time to load. Base key is K
+  We decided to keep chest locations and everything enabled and are awaiting your feedback. What is dropped where can already be seen in EMI so this just adds another layer of information that you can obtain.
+
+## Fixes
+- Removed old Rune stuff as its no longer needed in quests
+- General smaller Fixes to quests that randomly broke
+- Lvl 11-20 Level lock is now mentioned in quests properly, that won't stop most people since they don't read
+- New wiki links should work properly now
+- Fixed modrinth install still having the bumblezone and deepdark quests for some odd reason
+
+Alm found out where the Tip file is for the loading menu, watch out.
+
+Added Just Enough Structures, Simply Skills Tweaks
+Updated Bard Spell Tweaks, Accessories, Entity Culling, Friends and Foes, FTB Quest Translation, Structure essentials
