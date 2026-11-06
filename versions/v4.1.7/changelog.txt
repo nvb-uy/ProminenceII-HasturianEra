@@ -1,0 +1,34 @@
+# Prominence II: Hasturian Era
+**v4.1.7 - What would the world be without fixes?**
+This update fixes the Soulbound issue and the Aquamirae Shipyard Echoes not dropping properly. Many other big game changing qol changes you shouldn't miss out as well as Unholy Essences finally coming back!
+This is the last update for the Halloween Update. We are also looking into removing Simply bows **in the future**. It was a short run but we aren't happy with the mod and as much as we like Unique bows, the issues it causes outweigh the ups, sorry!
+## Changes
+- Adjusted the Jade interface to not overflow anymore hopefully
+- Shipyard Echoes now drop from the same mobs, but no longer need the Shipbreaker to kill them
+- Flight is now properly disabled for every mythic boss but Day Stalker and Night Prowler
+- Molten Remnants now have a tiny cooldown, similar to what Ender Pearls have
+  
+## Additions
+- New Explorers Compass look!
+- Opac UI:
+ A Claims tab that lists each party member's claim and forceload counts, with your own limits on your row. Hover a row to see how many claims they have in each dimension.
+ Each Claims row gets a map button that opens the World Map on that member's nearest claim. If all their claims are in another dimension, the button is greyed out and says which one has the most.
+- Molten remnants now stack to 4 and have a use cooldown
+- Essences are back! You can now obtain Unholy Essence again from Mythic challenges (1-9: lesser Unholy Essence, 10+ greater Unholy Essence)
+- If your Inventory is full and you would have obtained an Hourglass, a Lootbox or Primordial armor, it will now go to the Relic Recovery system(this works only when this happens on 4.1.7+, not earlier, we are not magicians)
+  
+## Fixes
+- Fixed the Entity culling being weird
+- Fixed options search bar clickable while scrolled
+- Fixed show cinder trades in EMI on servers
+- Fixed Trades, Forges and Tooltips a bit more
+- Fixed primordial set bonus and brittle damage on every hit, not just the first
+- Fixed Ashedar, Amagul Crystal and Gauntlet damage on every hit as they were bugged
+- Fixed Vaaz Assault for people who have unlocked the quest to only start when the conditions are met
+- Fixed Modrinth install crashing on launch
+
+- And some more small fixes!
+
+Added Explorer's Compass Refreshed, Aquamirae Recipe Tweaks - easier Graveyard Echoes, Concrete Lib
+
+Updated AE2, Colorwheel, Create:Testosterone, Iris & Oculus Search, OPAC-UI, Quests Customizer, Soulbinding Items, Traveler's Backpacks, Fragmentum, Essential
