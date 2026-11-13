@@ -1,0 +1,38 @@
+# Prominence II: Hasturian Era
+**v4.1.8 - No more awakening, more Waystones**
+
+## Changes
+Awakening has finally been disabled! We had a breakthrough and it is now impossible to use a non 8/8 weapon for your artifacts.
+What now? This largely only affects Lichblade and Dormant relic. You can Awaken it now through a recipe, which helps with visibility, but also use the runic forge. You can no longer put others into the runic forge. This unfortunately also has the effect that you cannot remove runes anymore. This may be fixed in the future but is a necessary sacrifice. 
+Old Artifacts now also become fully awakened retroactively, if you have them in your inventory. 
+Artifacts can no longer have runes, having runes on them will void them upon updating.
+
+- Halloween event is over.
+- Nerfed the Anglerfish once again
+- Increased Spawn Cooldown of the Shipbreaker
+- Lowered Cornelia armor by 6
+- Changed Necromancer spawn weight from 1 to 3
+- Changed to the 1000 years later advancement for the past Hourglass trade instead of the eye
+  
+## Additions
+- Added a Really cool new button in the Main menu for you to click!
+- Structures now show when clicking on them in FTB, meaning you can know how they look
+- Search by structure tag with #, like #minecraft:village. A Find Structure task for a tag opens the browser on that search
+- Added EMI Screen for Primordial Armor
+  
+## Fixes
+- Fixed 6/6, 8/8 and 10/10 Enchanted items losing all their enchantments
+- Finally fixed the server crash when Ender Gaze is cast
+- EMI no longer loads double
+- Heatsources for the witch cauldron should now properly heat up again
+- Waystones should now spawn in every village hopefully, and if not, there is a far higher chance
+- Fixed rare issue where disconnecting whilst crafting primordial armor no longer voids it
+- Some entries for Enchanted have been permanently removed from their guide books, such as Poppetry as all of it was disabled
+- Removed duplicate Primordial armor in EMI
+- Fixed tooltips being invisible in the primordial forge gui
+- Show Spellweaver's Grace and Arcane Barrage as percent bonuses instead of flat
+- Grant Cosmic Weaver's Prismatic Focus as school spell power instead of a hidden dmg multiplier
+
+Added Ender Gaze Crash Begone!, Enchanted Cauldron fix, villages_fwaystonesCompat, 
+Removed The Lost Castle (Im fairly confident it never spawned)
+Updated Just Enough Structures, Ashen, Double Doors, EMI loot, Integrated API, Not Enough Animations, Sollib, Supplementaries, Collective, Prominent, Sortilege, Velocity for Treckorah :)
