@@ -1,0 +1,36 @@
+# Prominence II: Hasturian Era
+**v4.1.9 - Cinder Changes and performance update**
+
+We want to first of all, start these patch notes with the info, that the mod "No chat reports" has been taken down by Mojang on Curseforge and likely Modrinth soon as well. This is Mojangs decision, not ours. We are sorry for the inconvenience and we wish the best to the Devs of No chat reports and we hope this situation resolves with the reinstatement of the mod. As of writing this Chengelog it is still available on modrinth where you can still download it.
+
+This update also removes Creeper overhaul and Simply Bows. The latter was riddled with issues we could not fix. Sorry.
+## Changes
+- Main menu and such should load faster, overall performance should be imrpoved.
+- No more Skeleton Creepers
+- Corrupted champion's sound no longer breaks your ear drums
+- Simply bows has been removed which also removes all those quest entries, they will likely not return this way - balancing some of them was a herculean task with how they worked, enchantments didn't work, they couldnt scale with spell power and such, they were also responsible for a 25k DPS build some patches ago (we are gatekeeping the build)
+- Assault cultists and such should no longer drop anything
+- Raised the soft cap for the full party for mythic hourglasses from 16 to 25
+- Raised Reward cap level from 15 to 25
+- increased Anchor level from 30 to 35
+- Lowered Damage growth slightly from 1.07 to 1.03
+- Mythics can now yield up to 10 cinders when hitting mythic 24, which should be more doable now since the party cap is reached later
+- Increased Greater Unholy Essence drop chance(+10%) but made it only dropped at lvl 13 and later
+  
+## Additions
+Opac UI:
+- Hover an online party member to see where they are: dimension, coordinates, and how far away they are if they're in your dimension. It uses the locations OPAC already shares with your party, the same ones Xaero's maps show
+- Your own row on the Members tab has a Sharing/Hidden button that turns OPAC's "share location with party" setting on or off, so you don't have to type the player-config command. It's greyed out if the server doesn't let players change it
+
+- Tons of new animals, such as crows, ostriches and such! Great for collectors and dentists with too much money alike
+
+## Fixes
+- Typing in the invite box no longer gets wiped when someone joins the party or a rank changes 
+- The party screen no longer rebuilds every tab whenever any player on the server logs in or out. Online dots now update on their own
+- Fixed a couple of rogue crashes that sometimes happened for no reason
+- Made logs smaller thanks to lithium
+- Numerous fixes, fps improvements and so forth
+
+Added
+Removed No chat reports, Creeper Overhaul, Simply Bows, Simplybow opac fix, Simply Bows Reforged
+Updated AAA Particles, Amecs (Fabric), Explorations, Explorify – Dungeons & Structures, Friends&Foes (Fabric), Integrated API, Moonlight lib, OPAC-UI, ProgressiveVelocity, Puzzles lib, Reactive Music, Reborn Core, Octolib, Supplementaries, Tech Reborn, Fancymenu, Drippy Loading Screen, Better End, Better Nether, BClib, Naturalist, Graveyard
