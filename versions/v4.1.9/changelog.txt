@@ -31,6 +31,7 @@ Opac UI:
 - Made logs smaller thanks to lithium
 - Numerous fixes, fps improvements and so forth
 
-Added
-Removed No chat reports, Creeper Overhaul, Simply Bows, Simplybow opac fix, Simply Bows Reforged
-Updated AAA Particles, Amecs (Fabric), Explorations, Explorify – Dungeons & Structures, Friends&Foes (Fabric), Integrated API, Moonlight lib, OPAC-UI, ProgressiveVelocity, Puzzles lib, Reactive Music, Reborn Core, Octolib, Supplementaries, Tech Reborn, Fancymenu, Drippy Loading Screen, Better End, Better Nether, BClib, Naturalist, Graveyard
+
+Removed: No chat reports, Creeper Overhaul, Simply Bows, Simplybow opac fix, Simply Bows Reforged
+
+Updated: AAA Particles, Amecs (Fabric), Explorations, Explorify – Dungeons & Structures, Friends&Foes (Fabric), Integrated API, Moonlight lib, OPAC-UI, ProgressiveVelocity, Puzzles lib, Reactive Music, Reborn Core, Octolib, Supplementaries, Tech Reborn, Fancymenu, Drippy Loading Screen, Better End, Better Nether, BClib, Naturalist, Graveyard
